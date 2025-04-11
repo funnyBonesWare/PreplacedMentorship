@@ -1,0 +1,30 @@
+//Theory
+ Js Fundamentals
+
+ Types of Variables [var, let and const]
+
+ Types of Functions [IIFE, arrow, functn Declaration, Statement, Expression, callback, HOF]
+
+ Execution Context [Memory Phase and Code Execution phase]
+
+ Hoisting
+
+ Temporal DeadZone [TDZ]
+
+ Difference betn functn Declaration, Statement and Expression
+
+ Scope, Scope Chaining and Lexical Environment
+
+ Block, Function Scope and Block Scope
+
+ Legal and Illegal Shadowing
+
+ Practice code snippets for Hoisting and Scope
+
+
+//Components
+
+ CenterDiv [position: relative/absolute, display: flex]
+
+ DarkLightMode
+
