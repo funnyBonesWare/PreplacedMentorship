@@ -1,0 +1,50 @@
+Technical -> Flexbox is a one-dimensional layout method for arranging items in rows or columns. 
+Items flex (expand) to fill additional space or shrink to fit into smaller spaces. 
+
+Video Resources: https://www.youtube.com/watch?v=DWk2mndNTHY
+
+Key Concepts:
+1. Flex Container
+   - Created by setting display: flex
+   - Parent element that holds flex items
+   - Can be either row (horizontal) or column (vertical)
+
+2. Main Properties for Container:
+   - flex-direction: row | column | row-reverse | column-reverse
+   - justify-content: flex-start | flex-end | center | space-between | space-around
+   - align-items: stretch | flex-start | flex-end | center
+   - flex-wrap: nowrap | wrap | wrap-reverse
+   - gap: sets spacing between flex items
+
+3. Properties for Flex Items:
+   - flex-grow: determines growth factor
+   - flex-shrink: determines shrink factor
+   - flex-basis: sets initial main size
+   - align-self: overrides container's align-items
+   - order: controls item ordering
+
+Common Use Cases:
+- Navigation bars
+- Card layouts
+- Centering content
+- Equal-height columns
+- Dynamic layouts
+
+Detailed Theory:
+
+4. Flex Axes:
+   - Main Axis: Primary axis along which flex items are placed (horizontal in row, vertical in column)
+   - Cross Axis: Perpendicular to the main axis
+   - Understanding these axes is crucial for alignment properties
+
+5. Advanced Concepts:
+    - Flex Shorthand: flex: grow shrink basis
+     Example: flex: 1 1 auto (flexible growth, flexible shrink, auto basis)
+   - flex: 1 = flex: 1 1 0% (common pattern for equal width)
+   - Negative space distribution
+   - Flex item sizing calculations
+
+
+
+
+
