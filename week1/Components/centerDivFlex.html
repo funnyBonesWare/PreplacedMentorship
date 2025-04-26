@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Center Div</title>
+    <style>
+      /* Parent container to center its content both vertically and horizontally */
+      .parentEnclosureDiv {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100dvh; /* Full viewport height */
+      }
+
+      /* Outer box with a blue border, centered within the parent */
+      .outerBox {
+        border: 1px solid blue;
+        width: 50%; /* 90% of the parent's width */
+        height: 50%; /* 90% of the viewport height */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      /* First inner box with a red border, centered within the outer box */
+      .firstInnerBox {
+        border: 1px solid red;
+        width: 90%; /* 90% of the outer box's width */
+        height: 90%; /* 90% of the outer box's height */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      /* Second inner box with a green border, centered within the first inner box */
+      .secondInnerBox {
+        border: 1px solid green;
+        width: 90%; /* 90% of the first inner box's width */
+        height: 90%; /* 90% of the first inner box's height */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      /* Third inner box with a violet border, nested inside the second inner box */
+      .thirdInnerBox {
+        border: 1px solid violet;
+        width: 90%; /* 90% of the second inner box's width */
+        height: 90%; /* 90% of the second inner box's height */
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Parent container -->
+    <div class="parentEnclosureDiv">
+      <!-- Outer box -->
+      <div class="outerBox">
+        <!-- First inner box -->
+        <div class="firstInnerBox">
+          <!-- Second inner box -->
+          <div class="secondInnerBox">
+            <!-- Third inner box -->
+            <div class="thirdInnerBox"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
