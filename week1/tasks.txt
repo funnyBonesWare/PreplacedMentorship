@@ -1,30 +1,30 @@
 //Theory
  Js Fundamentals
 
- Types of Variables [var, let and const]
+ Types of Variables [var, let and const] ✅
 
- Types of Functions [IIFE, arrow, functn Declaration, Statement, Expression, callback, HOF]
+ Types of Functions [IIFE, arrow, functn Declaration, Statement, Expression, callback, HOF] ✅
 
- Execution Context [Memory Phase and Code Execution phase]
+ Execution Context [Memory Phase and Code Execution phase] ✅
 
- Hoisting
+ Hoisting ✅
 
- Temporal DeadZone [TDZ]
+ Temporal DeadZone [TDZ] ✅
 
- Difference betn functn Declaration, Statement and Expression
+ Difference betn functn Declaration, Statement and Expression ✅
 
- Scope, Scope Chaining and Lexical Environment
+ Scope, Scope Chaining and Lexical Environment ✅
 
- Block, Function Scope and Block Scope
+ Block, Function Scope and Block Scope ✅
 
- Legal and Illegal Shadowing
+ Legal and Illegal Shadowing ✅
 
- Practice code snippets for Hoisting and Scope
+ Practice code snippets for Hoisting and Scope ✅
 
 
 //Components
 
- CenterDiv [position: relative/absolute, display: flex]
+ CenterDiv [position: relative/absolute, display: flex] ✅
 
- DarkLightMode
+ DarkLightMode  ✅
 

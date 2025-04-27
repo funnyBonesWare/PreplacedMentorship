@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Light/Dark Mode Toggle</title>
+    <style>
+      :root {
+        --bg-color: #ffffff;
+        --text-color: #000000;
+      }
+
+      body {
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        font-family: Arial, sans-serif;
+        transition: background-color 0.3s, color 0.3s;
+        margin: 0;
+        padding: 20px;
+      }
+
+      .container {
+        text-align: center;
+        margin-top: 50px;
+      }
+
+      .dark-mode {
+        --bg-color: #121212;
+        --text-color: #ffffff;
+      }
+
+      .toggle-switch {
+        width: 50px;
+        height: 25px;
+        background-color: var(--text-color);
+        border-radius: 15px;
+        position: relative;
+        cursor: pointer;
+        display: inline-block;
+        vertical-align: middle;
+      }
+
+      .toggle-switch .switch {
+        width: 21px;
+        height: 21px;
+        background-color: var(--bg-color);
+        border-radius: 50%;
+        position: absolute;
+        top: 2px;
+        left: 2px;
+        transition: left 0.3s;
+      }
+
+      .dark-mode .toggle-switch .switch {
+        left: 27px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Light / Dark Mode Example</h1>
+      <div id="toggle" class="toggle-switch">
+        <div class="switch"></div>
+      </div>
+      <button id="modeButton" style="margin-top: 20px; padding: 10px 20px">
+        Dark Mode
+      </button>
+    </div>
+
+    <script>
+      const toggleSwitch = document.getElementById("toggle");
+      const modeButton = document.getElementById("modeButton");
+
+      function toggleDarkMode() {
+        document.body.classList.toggle("dark-mode");
+        modeButton.textContent = document.body.classList.contains("dark-mode")
+          ? "Light Mode"
+          : "Dark Mode";
+      }
+
+      toggleSwitch.addEventListener("click", toggleDarkMode);
+      modeButton.addEventListener("click", toggleDarkMode);
+    </script>
+  </body>
+</html>
