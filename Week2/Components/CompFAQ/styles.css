@@ -64,14 +64,18 @@ body {
   line-height: 1.6;
 }
 
+/* When a FAQ item is active (clicked), slightly scale it up to 102% of its original size
+   to create a subtle "pop out" effect that draws attention to the active item */
 .Faq-Item.active {
   transform: scale(1.02);
 }
 
+/* When a FAQ item is active (clicked), rotate the toggle button by 45 degrees */
 .Faq-Item.active .Toggle-Btn {
   transform: rotate(45deg);
 }
 
+/* When a FAQ item is active (clicked), increase the max height of the answer to 200px */
 .Faq-Item.active .Faq-Answer {
   max-height: 200px;
 }
