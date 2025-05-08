@@ -1,0 +1,29 @@
+/* Reset default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set dark background for better ripple visibility */
+body {
+  background-color: #000;
+}
+
+/* Ripple element styling */
+.ripple {
+  position: absolute; /* Position relative to viewport */
+  border-radius: 50%; /* Create circular shape */
+  transform: scale(0); /* Start from size 0 */
+  animation: rippleEffect 0.6s linear; /* Apply ripple animation */
+  background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white */
+  pointer-events: none; /* Prevent ripple from interfering with clicks */
+}
+
+/* Define ripple animation */
+@keyframes rippleEffect {
+  100% {
+    transform: scale(4); /* Grow to 4x original size */
+    opacity: 0; /* Fade out completely */
+  }
+}
