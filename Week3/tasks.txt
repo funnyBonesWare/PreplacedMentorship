@@ -1,22 +1,28 @@
 // Fundamentals
 
-// DIff betn DOMContentLoaded vs 'load'
+// DIff betn DOMContentLoaded vs 'load' ✅
 
 // create a deepCopy function // let obj2 = myOwnStructuredClone(obj1);
 
-// Prototype
+// Prototype ✅
 
-// prototype chaining
+// prototype chaining ✅
 
-// diff between '__proto__' and prototype
+// diff between '__proto__' and prototype ✅
 
-// Polyfills for array methods: myMap, myForeach, myReduce, myEvery, mySome, myFind, myFilter, myConcat
-
-
+// Polyfills for array methods: 
+myMap, 
+myForeach, 
+myReduce, 
+myEvery, 
+mySome, 
+myFind, 
+myFilter, 
+myConcat
 
 // Components
 
 // KeyItentifier
 
-// RippleEffect
+// RippleEffect ✅
 
