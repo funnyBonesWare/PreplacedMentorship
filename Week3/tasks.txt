@@ -2,7 +2,7 @@
 
 // DIff betn DOMContentLoaded vs 'load' ✅
 
-// create a deepCopy function // let obj2 = myOwnStructuredClone(obj1);
+// create a deepCopy function // let obj2 = myOwnStructuredClone(obj1); ✅
 
 // Prototype ✅
 
