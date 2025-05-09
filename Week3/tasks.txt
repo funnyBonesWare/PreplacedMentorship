@@ -11,14 +11,14 @@
 // diff between '__proto__' and prototype ✅
 
 // Polyfills for array methods: 
-myMap, 
-myForeach, 
-myReduce, 
-myEvery, 
-mySome, 
-myFind, 
-myFilter, 
-myConcat
+myMap, ✅
+myForeach, ✅
+myReduce, ✅
+myEvery, ✅
+mySome, ✅
+myFind, ✅
+myFilter, ✅
+myConcat ✅
 
 // Components
 
