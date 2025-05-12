@@ -6,7 +6,7 @@
 
 // dblClick
 
-// Polyfills for 5 array/string methods 
+// Polyfills for 5 array/string/Objects methods ✅
 
 // Function Constructor and Class Constructor
 
