@@ -1,0 +1,25 @@
+// Fundamentals
+
+// First Response Size-> 14kb
+
+// Explore innerWidth and innerHeight, offsetLeft and offsetTop, clientWidth and clientHeight
+
+// dblClick
+
+// Polyfills for 5 array/string methods 
+
+// Function Constructor and Class Constructor
+
+// why do we need 'new' keyword
+
+// OOPS principles
+
+// 'this' keyword and diff uses/scenarios
+
+
+// Components
+
+// KeyItentifierWithSound
+
+// ButtonRippleEffect
+
