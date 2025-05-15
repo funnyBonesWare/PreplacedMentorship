@@ -1,0 +1,5 @@
+// First Response Size-> 14kb
+
+// Explore innerWidth and innerHeight, offsetLeft and offsetTop, clientWidth and clientHeight
+
+// dblClick
