@@ -10,13 +10,28 @@ Array.prototype.myFlatMap = function (callbackFn, thisArg) {
     throw new TypeError(callbackFn + " is not a function");
   }
 
-  // First map the array using the callback
-  const mapped = this.map((item, index, array) => {
-    return callbackFn.call(thisArg, item, index, array);
-  });
-
-  // Then flatten the result by one level
-  return mapped.myFlat(1);
+  const result = [];
+  
+  // Iterate through each element
+  for (let i = 0; i < this.length; i++) {
+    // Skip empty slots in sparse arrays
+    if (!(i in this)) continue;
+    
+    // Call the callback function
+    const mappedValue = callbackFn.call(thisArg, this[i], i, this);
+    
+    // If the result is an array, spread its elements into the result
+    if (Array.isArray(mappedValue)) {
+      for (let j = 0; j < mappedValue.length; j++) {
+        result.push(mappedValue[j]);
+      }
+    } else {
+      // If the result is not an array, add it as is
+      result.push(mappedValue);
+    }
+  }
+  
+  return result;
 };
 
 /*

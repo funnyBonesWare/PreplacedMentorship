@@ -1,6 +1,6 @@
 // Fundamentals
 
-// Polyfills for 5 array/string/Objects methods ✅
+// Polyfills for 5 array/string methods ✅
 
 // Function Constructor and Class Constructor ✅
 
