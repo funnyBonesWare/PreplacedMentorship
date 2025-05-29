@@ -1,0 +1,19 @@
+// call, apply, bind
+
+// Polyfills for call, apply and bind
+
+// event propogation: capturing and bubbling
+
+// event delegation [due to bubbling]
+
+// closure [MDN concept + code]
+
+
+// Component
+
+// Drink Water
+
+// event propogation: capturing and bubbling
+
+// KineticLoader ✅
+
