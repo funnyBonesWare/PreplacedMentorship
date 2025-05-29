@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: deepskyblue;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.container h1,h3{
+    margin-bottom: 10px;
+}
+
+.glass{
+    width: 175px;
+    height: 300px;
+    border: 4px solid blue;
+    border-radius: 0 0 40px 40px;
+    background-color: white;
+    overflow: hidden;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.remained{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: height 0.3s ease;
+    background-color: white;
+}
+
+.remained span {
+    font-size: 18px;
+    font-weight: bold;
+    color: blue;
+    display: block;
+    text-align: center;
+    width: 100%;
+}
+
+.remained small {
+    color: blue;
+}
+
+.filled {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0%;
+    background-color: deepskyblue;
+    transition: height 0.3s ease;
+}
+
+.filled-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.small-glass{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 280px;
+}
+
+.glass-small{
+    width: 50px;
+    height: 100px;
+    border: 4px solid blue;
+    border-radius: 0 0 20px 20px;
+    background-color: white;
+    overflow: hidden;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 14px;
+    color: blue;
+}
+
+.glass-small.full {
+    background-color: deepskyblue;
+    color: white;
+}
