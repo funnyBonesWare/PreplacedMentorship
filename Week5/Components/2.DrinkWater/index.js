@@ -15,21 +15,29 @@ smallGlasses.forEach((glass, idx) => {
 });
 
 function highlightCups(idx) {
-    // If the clicked glass is already full and the next one is empty,
-    // clicking it should empty it
+    // This function handles filling/emptying the small water glasses when clicked
+    
+    // First check if we should empty the clicked glass:
+    // - If the clicked glass is already full AND
+    // - Either it's the last glass OR the next glass is empty
+    // Then we'll empty this glass by decreasing the index
     if (smallGlasses[idx].classList.contains('full') && 
         (idx === totalGlasses - 1 || !smallGlasses[idx + 1].classList.contains('full'))) {
         idx--;
     }
 
+    // Loop through all glasses and update their state:
+    // - Any glass up to and including the clicked index gets filled
+    // - Any glass after the clicked index gets emptied
     smallGlasses.forEach((glass, idx2) => {
         if (idx2 <= idx) {
-            glass.classList.add('full');
+            glass.classList.add('full');    // Fill glass by adding 'full' class
         } else {
-            glass.classList.remove('full');
+            glass.classList.remove('full'); // Empty glass by removing 'full' class
         }
     });
 
+    // After updating the small glasses, update the big glass display
     updateBigGlass();
 }
 

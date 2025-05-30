@@ -1,9 +1,11 @@
+/* Reset default browser styles */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/* Center the entire app in the viewport with a blue background */
 body{
     width: 100vw;
     height: 100vh;
@@ -13,6 +15,7 @@ body{
     background-color: deepskyblue;
 }
 
+/* Main container for the app content */
 .container{
     display: flex;
     flex-direction: column;
@@ -21,10 +24,12 @@ body{
     color: white;
 }
 
+/* Style for headings */
 .container h1,h3{
     margin-bottom: 10px;
 }
 
+/* Main water glass styling */
 .glass{
     width: 175px;
     height: 300px;
@@ -36,6 +41,7 @@ body{
     position: relative;
 }
 
+/* Container for the remaining water amount display */
 .remained{
     position: absolute;
     top: 0;
@@ -50,6 +56,7 @@ body{
     background-color: white;
 }
 
+/* Style for the remaining water text */
 .remained span {
     font-size: 18px;
     font-weight: bold;
@@ -59,10 +66,12 @@ body{
     width: 100%;
 }
 
+/* Style for the small text under remaining water */
 .remained small {
     color: blue;
 }
 
+/* Container for the filled water animation */
 .filled {
     position: absolute;
     bottom: 0;
@@ -73,6 +82,7 @@ body{
     transition: height 0.3s ease;
 }
 
+/* Text that appears in the filled water */
 .filled-text {
     position: absolute;
     top: 50%;
@@ -84,6 +94,7 @@ body{
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
 }
 
+/* Container for the small glasses row */
 .small-glass{
     display: flex;
     flex-direction: row;
@@ -93,6 +104,7 @@ body{
     width: 280px;
 }
 
+/* Individual small glass styling */
 .glass-small{
     width: 50px;
     height: 100px;
@@ -112,6 +124,7 @@ body{
     color: blue;
 }
 
+/* Style for filled small glasses */
 .glass-small.full {
     background-color: deepskyblue;
     color: white;
