@@ -1,9 +1,7 @@
 // Polyfill for Function.prototype.apply
 Function.prototype.myApply = function(context, argsArray) {
-    // If no context is provided, use global object (window in browser, global in Node)
-    context = context || globalThis;
+    context = context || (typeof window !== 'undefined' ? window : global);
     
-    // If argsArray is not provided or is not an array, use empty array
     argsArray = Array.isArray(argsArray) ? argsArray : [];
     
     // Add the function as a property of the context object

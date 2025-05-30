@@ -1,10 +1,7 @@
 // Polyfill for Function.prototype.call
 Function.prototype.myCall = function(context, ...args) {
-    // If no context is provided, use global object (window in browser, global in Node)
-    context = context || globalThis;
+    context = context || (typeof window !== 'undefined' ? window : global);
     
-    // Add the function as a property of the context object
-    // We use a unique symbol to avoid property name conflicts
     const uniqueKey = Symbol('uniqueKey');
     context[uniqueKey] = this;
     
