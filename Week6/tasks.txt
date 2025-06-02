@@ -1,0 +1,14 @@
+Event Function Constructor [concept]
+
+closure [concept + code]
+
+currying [concept + code]
+
+fibonacci and factorial using currying
+
+memoization [concept + code]
+
+debounce [concept + code]
+
+throttling [concept + code]
+

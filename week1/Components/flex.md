@@ -1,4 +1,4 @@
-﻿- Center Div Flexbox Q&A;
+- Center Div Flexbox Q&A;
 - HTML Structure & Semantics
 
 **Q:** Why start with <!DOCTYPE html>?
