@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bdf178ef91984cde",
+        "id": "4d83cfd3242b9513",
         "type": "tabs",
         "children": [
           {
-            "id": "32bc4656e972fbd4",
+            "id": "de728b4ba9cef7c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Week6/Components/Test.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Test"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week6/Components/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week6/Components/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week6/Components/Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline"
             }
           },
           {
@@ -180,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32bc4656e972fbd4",
+  "active": "c110fc757a2f1ae7",
   "lastOpenFiles": [
     "Week6/Components/Test.md",
     "Excalidraw/Drawing 2025-06-02 17.17.11.excalidraw.md",
