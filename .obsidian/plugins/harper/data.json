@@ -354,7 +354,9 @@
     "WorseThan": null,
     "WorstEver": null
   },
-  "userDictionary": [],
+  "userDictionary": [
+    "DOMContentLoaded"
+  ],
   "dialect": 0,
   "delay": -1
 }
