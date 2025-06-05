@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f8ddc18f8baa4fa",
+        "id": "f46770870f7430af",
         "type": "tabs",
         "children": [
           {
-            "id": "8924c062bf3be0f7",
+            "id": "092c356de5525063",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -177,13 +173,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8924c062bf3be0f7",
+  "active": "31754b51f2c55ff3",
   "lastOpenFiles": [
+    "Week6/Tasks.md",
     "Week6/Theory/1.Event and Event Function Constructor/4. Event Object Constructor Function.md",
     "Week6/Theory/1.Event and Event Function Constructor/3. Event Objects.md",
     "Week6/Theory/1.Event and Event Function Constructor/2. Setup Event Handlers.md",
     "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
-    "Week6/Tasks.md",
     "Week6/Theory/1.Event and Event Function Constructor",
     "Week6/Theory",
     "Week6/Components",

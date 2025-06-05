@@ -1,6 +1,6 @@
 1. Event Function Constructor [concept] ✅
 
-2. closure [concept + code]
+2. closure [concept + code] 
 
 3. currying [concept + code]
 
