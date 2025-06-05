@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week6/Theory/1.Event and Event Function Constructor/Event and Event Function Constructor.md",
+                "file": "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Event and Event Function Constructor"
+              "title": "1.Event"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week6/Theory/1.Event and Event Function Constructor/Event and Event Function Constructor.md",
+                "file": "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Event and Event Function Constructor"
+              "title": "Backlinks for 1.Event"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week6/Theory/1.Event and Event Function Constructor/Event and Event Function Constructor.md",
+                "file": "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Event and Event Function Constructor"
+              "title": "Outgoing links from 1.Event"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week6/Theory/1.Event and Event Function Constructor/Event and Event Function Constructor.md",
+                "file": "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Event and Event Function Constructor"
+              "title": "Outline of 1.Event"
             }
           },
           {
@@ -184,7 +184,7 @@
   "active": "994710d9a0fe38d8",
   "lastOpenFiles": [
     "Week6/Tasks.md",
-    "Week6/Theory/1.Event and Event Function Constructor/Event and Event Function Constructor.md",
+    "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
     "Week6/Theory/1.Event and Event Function Constructor",
     "Week6/Theory",
     "Week6/Components",
