@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "4a7c88dbc7dcd8c7",
+    "id": "077cfcfe225a73c4",
     "type": "split",
     "children": [
       {
-        "id": "50942b2038f2d3d4",
+        "id": "974418274413b3d0",
         "type": "tabs",
         "children": [
           {
-            "id": "7132d150abc28579",
+            "id": "994710d9a0fe38d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Week6/Theory/1.Event and Event Function Constructor/Event and Event Function Constructor.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Event and Event Function Constructor"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8961af364cd1c6ee",
+    "id": "bc0bd554d5018d1b",
     "type": "split",
     "children": [
       {
-        "id": "dc083a8df30876f6",
+        "id": "a5db04df2194eea5",
         "type": "tabs",
         "children": [
           {
-            "id": "49221e7362f57aca",
+            "id": "dc23bfff22bf6a73",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "deb612ced2c89e35",
+            "id": "cd0c2b1b61f8b23b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "bf89bcaa75c072ad",
+            "id": "4ecc2fadb0065cd9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,46 +81,48 @@
     "width": 300
   },
   "right": {
-    "id": "9d5940922824108e",
+    "id": "b35fc584b244562b",
     "type": "split",
     "children": [
       {
-        "id": "1d64b17c9f4d425b",
+        "id": "3786fa32176c7f64",
         "type": "tabs",
         "children": [
           {
-            "id": "3bc6304666da1cae",
+            "id": "28222c92c6741d22",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Week6/Theory/1.Event and Event Function Constructor/Event and Event Function Constructor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Event and Event Function Constructor"
             }
           },
           {
-            "id": "9b1a5803472d610b",
+            "id": "684bccae2f7617cb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Week6/Theory/1.Event and Event Function Constructor/Event and Event Function Constructor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Event and Event Function Constructor"
             }
           },
           {
-            "id": "bdfd799342c58f79",
+            "id": "c5e8794b6ed56cc3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,21 +137,22 @@
             }
           },
           {
-            "id": "4cc22078fa18e067",
+            "id": "fa38f57e4f36d4b9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Week6/Theory/1.Event and Event Function Constructor/Event and Event Function Constructor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Event and Event Function Constructor"
             }
           },
           {
-            "id": "c110fc757a2f1ae7",
+            "id": "31754b51f2c55ff3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -159,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,24 +177,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7132d150abc28579",
+  "active": "994710d9a0fe38d8",
   "lastOpenFiles": [
-    "Week6/Components/Test.md",
+    "Week6/Tasks.md",
+    "Week6/Theory/1.Event and Event Function Constructor/Event and Event Function Constructor.md",
+    "Week6/Theory/1.Event and Event Function Constructor",
+    "Week6/Theory",
+    "Week6/Components",
+    "Untitled",
+    "Week6/tasks.txt",
+    "Week6",
     "Excalidraw/Drawing 2025-06-02 17.17.11.excalidraw.md",
-    "Excalidraw",
-    "Week1/Components/AbsoluteRelativeTheory.md",
-    "Week6/Components/Untitled.canvas",
-    "Week6/Components/1. Event and Event Objects.md",
-    "Event and Event Objects.pdf",
-    "Week1/Components/AbsoluteRelativeTheory.pdf",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "2025-06-02.md",
-    "README.md",
-    "Week1/Components/flex.md"
+    "Excalidraw"
   ]
 }
