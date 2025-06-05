@@ -1,4 +1,4 @@
-1. Event Function Constructor [concept]
+1. Event Function Constructor [concept] ✅
 
 2. closure [concept + code]
 
