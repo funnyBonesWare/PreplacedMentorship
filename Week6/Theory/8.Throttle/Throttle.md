@@ -74,12 +74,12 @@ Throttling can improve the performance and user experience of web pages by reduc
 - Wasting bandwidth or resources on operations that are not visible or relevant to the user
 - Creating janky or laggy animations or interactions
 
-## Non Tech Example of throttling:
+## <font color="#4bacc6"> Non Tech Example of throttling:</font>
 
-**Changing speed of Fan**  
+<font color="#f79646">Changing speed of Fan</font>
 When changing speed of fan, it takes few seconds to reach at the desired speed. Thus before changing the speed again, we need to wait for few seconds so the fan reaches at a steady state.
 
-## [](https://dev.to/jeetvora331/throttling-in-javascript-easiest-explanation-1081#when-to-use-throttling)When to Use Throttling?
+## <font color="#4bacc6">When to Use Throttling?</font>
 
 Throttling is suitable for scenarios where you want to limit how often a function can be called, but you don’t want to miss any calls. For example, you might want to use throttling for:
 
@@ -87,6 +87,6 @@ Throttling is suitable for scenarios where you want to limit how often a functio
 - Updating or animating elements on the page when the user scrolls, resizes, or moves the mouse
 - Logging or tracking user actions or events when they occur frequently
 
-## [](https://dev.to/jeetvora331/throttling-in-javascript-easiest-explanation-1081#conclusion)Conclusion
+## <font color="#4bacc6">Conclusion</font>
 
 Throttling is a technique that limits how often a function can be called in a given period of time. It is useful for improving the performance and responsiveness of web pages that have event listeners that trigger heavy or expensive operations. Throttling can be implemented in JavaScript using timer functions such as setTimeout or setInterval. Throttling is suitable for scenarios where you want to limit how often a function can be called, but you don’t want to miss any calls.
