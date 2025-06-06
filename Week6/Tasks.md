@@ -2,7 +2,7 @@
 
 2. closure [concept + code] 
 
-3. currying [concept + code]
+3. currying [concept + code] 
 
 4. fibonacci and factorial using currying  [concept + code]
 
