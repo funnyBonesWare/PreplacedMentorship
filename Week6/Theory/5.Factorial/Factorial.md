@@ -43,3 +43,55 @@ console.log(fact(5));
 ```
 
 **Output** : 120
+### <font color="#4bacc6">Using Currying</font>
+
+In a curried version, `fact(n)` doesn’t itself return the final number; instead, it returns a _function_ that, when you call it, actually performs the recursion. This lets you split the invocation into two steps:
+- First: `fact(5)` → returns some inner function `compute`
+- Second: `compute()` → finally returns `120`.
+So you end up calling `fact(5)()` to get the result. It seems like an extra step, but it illustrates how you can separate “supplying the initial value” from “running the computation.”
+
+```js
+/**
+ * Curried factorial function:
+ * - Calling fact(n) returns an inner function.
+ * - You then invoke that returned function (with empty parentheses)
+ *   to actually run the recursion and get the numeric result.
+ */
+function fact(n) {
+  // Return a function that, when called, does the actual recursion
+  return function compute() {
+    // Base case: if n is 0 or 1, factorial is 1
+    if (n <= 1) {
+      return 1;
+    }
+    // Otherwise, multiply n by the factorial of (n - 1).
+    // Note: fact(n - 1) itself returns a function, so we call it with ().
+    return n * fact(n - 1)();
+  };
+}
+
+// Usage examples:
+const step1 = fact(5);      // step1 is now the inner function compute()
+// At this point, nothing has been calculated yet—just returned a function.
+const result = step1();          // now we actually compute 5 * 4 * 3 * 2 * 1 = 120
+console.log(result);             // 120
+
+// Or, more concisely:
+console.log(fact(6)());     // directly prints 720
+console.log(fact(0)());     // prints 1 (by definition)
+```
+
+### Explanation of key lines
+
+1. `function fact(n) { return function compute() { … } };`
+    - When you call `fact(5)`, JavaScript sets `n = 5` and then returns the inner function named `compute`. At this moment, no multiplication has happened yet. It’s only storing `n` in a closure.
+2. Inside `compute()`:
+```js
+if (n <= 1) {
+  return 1;
+ }
+ return n * factorial(n - 1)();
+```
+3. 
+4. 4
+

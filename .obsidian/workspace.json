@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week6/Tasks.md",
+                "file": "Week6/Theory/5.Factorial/Factorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Factorial"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "620b87193e82e13b",
   "lastOpenFiles": [
+    "Week6/Tasks.md",
     "Week6/Theory/5.Factorial/Factorial.md",
     "Assets/Fibonaaci.png",
     "Assets",
@@ -187,7 +188,6 @@
     "Week6/Theory/5.Factorial",
     "Week6/Theory/4.Fibonacci/Fibonacci.md",
     "Week6/Theory/3.Currying/1. Currying.md",
-    "Week6/Tasks.md",
     "Week6/Theory/4.Fibonacci",
     "Week6/Theory/2.Closure/1. Closure.md",
     "Week6/Theory/3.Currying",
