@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8f3f53b705c86055",
+        "id": "55282a945f7959c1",
         "type": "tabs",
         "children": [
           {
-            "id": "dd9f8c4c51829ec1",
+            "id": "75b5634d24604a33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week6/Theory/3.Currying/1. Currying.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. Currying"
+              "title": "New tab"
             }
           }
         ]
@@ -163,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +173,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd9f8c4c51829ec1",
+  "active": "31754b51f2c55ff3",
   "lastOpenFiles": [
-    "Week6/Theory/2.Closure/1. Closure.md",
     "Week6/Theory/3.Currying/1. Currying.md",
+    "Week6/Theory/2.Closure/1. Closure.md",
     "Untitled.md",
     "Week6/Tasks.md",
     "Week6/Theory/3.Currying",
