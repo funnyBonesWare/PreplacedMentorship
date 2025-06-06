@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week6/Tasks.md",
+                "file": "Week6/Theory/6.Memoization/Memoization.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Memoization"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "7a62c453251bccef",
   "lastOpenFiles": [
+    "Week4/Theory/1.Constructor/2.Functionand constructor theory.pdf",
+    "Week4/Theory/1.Constructor/1.FUnctionvsClassConstructor.pdf",
     "Week6/Theory/6.Memoization/Memoization.md",
     "Week6/Tasks.md",
     "Week6/Theory/8.Throttle/Throttle.md",
@@ -206,7 +208,6 @@
     "Week6/Theory/3.Currying",
     "Week6/Theory/2.Closure",
     "Week6/Theory/1.Event and Event Function Constructor",
-    "Week6/Theory",
     "Excalidraw/Drawing 2025-06-02 17.17.11.excalidraw.md"
   ]
 }
