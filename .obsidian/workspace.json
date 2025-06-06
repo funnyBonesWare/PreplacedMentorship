@@ -11,10 +11,14 @@
             "id": "620b87193e82e13b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Week6/Theory/5.Factorial/Factorial.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Factorial"
             }
           }
         ]
@@ -173,7 +177,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "31754b51f2c55ff3",
+  "active": "620b87193e82e13b",
   "lastOpenFiles": [
     "Assets/Fibonaaci.png",
     "Assets",
