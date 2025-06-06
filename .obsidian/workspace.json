@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "55282a945f7959c1",
+        "id": "54f85620252991b4",
         "type": "tabs",
         "children": [
           {
-            "id": "75b5634d24604a33",
+            "id": "676e458ff90e880d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week6/Theory/3.Currying/1. Currying.md",
+                "file": "Week6/Theory/4.Fibonacci/Fibonacci.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Currying"
+              "title": "Fibonacci"
             }
           }
         ]
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,13 +178,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "75b5634d24604a33",
+  "active": "676e458ff90e880d",
   "lastOpenFiles": [
+    "Screenshot 2025-06-06 at 11.47.02 AM.png",
+    "Week6/Theory/3.Currying/1. Currying.md",
     "Week6/Theory/4.Fibonacci/Fibonacci.md",
     "Week6/Tasks.md",
     "Week6/Theory/4.Fibonacci",
     "Untitled",
-    "Week6/Theory/3.Currying/1. Currying.md",
     "Week6/Theory/2.Closure/1. Closure.md",
     "Untitled.md",
     "Week6/Theory/3.Currying",
