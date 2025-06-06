@@ -90,8 +90,39 @@ console.log(fact(0)());     // prints 1 (by definition)
 if (n <= 1) {
   return 1;
  }
- return n * factorial(n - 1)();
+ return n * fact(n - 1)();
 ```
-3. 
-4. 4
+- If `n` is 0 or 1, we immediately return 1.
+- Otherwise, we call `fact(n - 1)` to get back another inner function (for `n - 1`), and _then_ we immediately invoke it with `()`. That returned value is the factorial of `n - 1`, which we multiply by `n`.
 
+3. Finally, calling `fact(5)()` unpacks into:
+    - First, `fact(5)` gives you a function `compute` that “remembers” `n = 5`.
+    - Then, `compute()` runs the recursive logic for `n = 5`, which in turn calls `fact(4)()`, `fact(3)()`, and so on until the base case.
+
+## <font color="#4bacc6">Using Memoization</font>
+
+Memoization stores previously calculated results, improving efficiency for repeated calls. It uses a closure for caching.
+
+```js
+const fact = (function () {
+    const cache = {};
+    return function facto(n) {
+        if (n === 0 || n === 1) {
+            return 1;
+        }
+        if (cache[n]) {
+            console.log("value from caeche")
+            return cache[n];
+        }
+        cache[n] = n * facto(n - 1);
+        return cache[n];
+    };
+})();
+console.log(fact(5))
+```
+
+- This code defines a self-invoking function that returns a facto function, which calculates the factorial of a number while using caching for efficiency.
+- The cache object stores previously calculated results to avoid redundant computations.
+- If the input number is already in the cache, it retrieves the value; otherwise, it calculates the factorial recursively.
+
+### <span style="background:#9254de"><font color="#ffffff">Source: Self Research</font></span>
