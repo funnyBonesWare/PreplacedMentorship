@@ -11,10 +11,14 @@
             "id": "421a0983bd946bee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Week6/Tasks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tasks"
             }
           }
         ]
@@ -173,7 +177,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dc23bfff22bf6a73",
+  "active": "421a0983bd946bee",
   "lastOpenFiles": [
     "Week6/Theory/5.Factorial/Factorial.md",
     "Week6/Tasks.md",
