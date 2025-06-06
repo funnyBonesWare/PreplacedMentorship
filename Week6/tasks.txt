@@ -1,14 +1,14 @@
 Event Function Constructor [concept] ✅
 
-closure [concept + code]
+closure [concept + code] ✅
 
-currying [concept + code]
+currying [concept + code] ✅
 
-fibonacci and factorial using currying
+fibonacci and factorial using currying [concept + code] ✅
 
-memoization [concept + code]
+memoization [concept + code] ✅
 
-debounce [concept + code]
+debounce [concept + code] ✅
 
-throttling [concept + code]
+throttling [concept + code] ✅
 
