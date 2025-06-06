@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week6/Theory/8.Throttle/Throttle.md",
+                "file": "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Throttle"
+              "title": "1.Event"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "6270695ba77bad2b",
   "lastOpenFiles": [
+    "Week6/Theory/8.Throttle/Throttle.md",
     "Week6/Theory/7.Debounce/Debounce.md",
     "Week6/Theory/6.Memoization/Memoization.md",
     "Week6/Theory/5.Factorial/Factorial.md",
@@ -190,7 +191,6 @@
     "Week6/Theory/1.Event and Event Function Constructor/3. Event Objects.md",
     "Week6/Theory/1.Event and Event Function Constructor/2. Setup Event Handlers.md",
     "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
-    "Week6/Theory/8.Throttle/Throttle.md",
     "Week6/Tasks.md",
     "Assets/Throttle.png",
     "Week6/Theory/8.Throttle",
