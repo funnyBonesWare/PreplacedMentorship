@@ -6,7 +6,7 @@
 
 4. fibonacci and factorial using currying  [concept + code] ✅
 
-5. memoization [concept + code]
+5. memoization [concept + code] ✅
 
 6. debounce [concept + code]
 
