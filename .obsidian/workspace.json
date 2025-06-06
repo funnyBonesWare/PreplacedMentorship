@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +177,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "676e458ff90e880d",
+  "active": "dc23bfff22bf6a73",
   "lastOpenFiles": [
-    "Screenshot 2025-06-06 at 11.47.02 AM.png",
     "Week6/Theory/3.Currying/1. Currying.md",
     "Week6/Theory/4.Fibonacci/Fibonacci.md",
+    "Screenshot 2025-06-06 at 11.47.02 AM.png",
     "Week6/Tasks.md",
     "Week6/Theory/4.Fibonacci",
     "Untitled",

@@ -105,5 +105,45 @@ console.log(generateFibSeries(8));
     - That inner function returns yet another function that expects `n`.
         
     - Only when you call all three—`fib(a)(b)(n)`—does the code inside actually execute. Each function “remembers” its own one argument.
+
 2. Base cases (`n === 0` and `n === 1`):
-     
+```js
+if (n === 0) {
+  return a;
+}
+if (n === 1) {
+  return b;
+}
+```
+- If you ask for the 0th Fibonacci term, you already passed it in as `a`.
+- If you ask for the 1st term, that’s `b`.
+- These checks stop recursion when you’ve reached those starting points.
+
+3. **Recursive step (`return fib(b)(a + b)(n - 1)`):**
+- Suppose you want the 5th term with `fib(0)(1)(5)`. Since 5 is neither 0 nor 1, you advance one step:
+    
+    - The pair `(a, b)` moves to `(b, a + b)`.
+        
+    - In our example, `(0, 1)` → `(1, 1)`.
+        
+- Then you call `fib(1)(1)(4)`. Each call reduces `n` by 1, moving forward in the sequence until it hits the base case.
+    
+- Ultimately, you “peel off” one layer of recursion per step, and when `n` becomes 1 (or 0), you return that value.
+
+3. **Building the full series with `generateFibSeries(numTerms)`:**
+    
+    - This helper function simply loops `i` from 0 to `numTerms – 1`.
+        
+    - For each `i`, `fib(0)(1)(i)` computes the ith Fibonacci number.
+        
+    - Pushing those values into an array yields the familiar sequence starting at 0.
+
+4. **Putting it all together:**
+    
+    - You have a pure, curried `fib` that can generate any “Fibonacci-like” series if you change the starting pair.
+        
+    - The helper `generateFibSeries` fixes the classic starting values `(0, 1)` to produce the standard sequence.
+
+
+### <span style="background:#9254de"><font color="#ffffff">Source: Self Research amongst various articles</font></span>
+
