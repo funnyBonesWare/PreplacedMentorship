@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b7bf9c7966895a83",
+        "id": "6f044d8e5399f222",
         "type": "tabs",
         "children": [
           {
-            "id": "7a62c453251bccef",
+            "id": "6d1ce35efe54d03a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week6/Theory/6.Memoization/Memoization.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Memoization"
+              "title": "New tab"
             }
           }
         ]
@@ -178,11 +174,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7a62c453251bccef",
+  "active": "6d1ce35efe54d03a",
   "lastOpenFiles": [
+    "Week6/Theory/6.Memoization/Memoization.md",
     "Week4/Theory/1.Constructor/2.Functionand constructor theory.pdf",
     "Week4/Theory/1.Constructor/1.FUnctionvsClassConstructor.pdf",
-    "Week6/Theory/6.Memoization/Memoization.md",
     "Week6/Tasks.md",
     "Week6/Theory/8.Throttle/Throttle.md",
     "Week6/Theory/7.Debounce/Debounce.md",
@@ -207,7 +203,6 @@
     "Week6/Theory/4.Fibonacci",
     "Week6/Theory/3.Currying",
     "Week6/Theory/2.Closure",
-    "Week6/Theory/1.Event and Event Function Constructor",
     "Excalidraw/Drawing 2025-06-02 17.17.11.excalidraw.md"
   ]
 }
