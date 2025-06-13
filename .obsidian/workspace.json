@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f044d8e5399f222",
+        "id": "9f0793e32c8557fa",
         "type": "tabs",
         "children": [
           {
-            "id": "6d1ce35efe54d03a",
+            "id": "2bbf5b6fd8d83d51",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6d1ce35efe54d03a",
+  "active": "dc23bfff22bf6a73",
   "lastOpenFiles": [
+    "week1/Theory/1.Var,Let,Const/2.let - MDN.pdf",
+    "week1/Theory/1.Var,Let,Const/1.var - MDN.pdf",
+    "week1/Theory/1.Var,Let,Const/3.const - MDN.pdf",
     "Week6/Theory/6.Memoization/Memoization.md",
     "Week4/Theory/1.Constructor/2.Functionand constructor theory.pdf",
     "Week4/Theory/1.Constructor/1.FUnctionvsClassConstructor.pdf",
@@ -201,8 +204,6 @@
     "Untitled.md",
     "Week6/Theory/5.Factorial",
     "Week6/Theory/4.Fibonacci",
-    "Week6/Theory/3.Currying",
-    "Week6/Theory/2.Closure",
     "Excalidraw/Drawing 2025-06-02 17.17.11.excalidraw.md"
   ]
 }
