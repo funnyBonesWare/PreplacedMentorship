@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f0793e32c8557fa",
+        "id": "cca44304549fe1e6",
         "type": "tabs",
         "children": [
           {
-            "id": "2bbf5b6fd8d83d51",
+            "id": "8b26eda802f5d8cd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,11 @@
   },
   "active": "dc23bfff22bf6a73",
   "lastOpenFiles": [
-    "week1/Theory/1.Var,Let,Const/2.let - MDN.pdf",
+    "Week6 - Week1",
+    "Untitled.md",
     "week1/Theory/1.Var,Let,Const/1.var - MDN.pdf",
+    "README.md",
+    "week1/Theory/1.Var,Let,Const/2.let - MDN.pdf",
     "week1/Theory/1.Var,Let,Const/3.const - MDN.pdf",
     "Week6/Theory/6.Memoization/Memoization.md",
     "Week4/Theory/1.Constructor/2.Functionand constructor theory.pdf",
@@ -201,9 +204,7 @@
     "Week6/Theory/6.Memoization",
     "Assets/Fibonaaci.png",
     "Assets",
-    "Untitled.md",
     "Week6/Theory/5.Factorial",
-    "Week6/Theory/4.Fibonacci",
     "Excalidraw/Drawing 2025-06-02 17.17.11.excalidraw.md"
   ]
 }
