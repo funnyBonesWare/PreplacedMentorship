@@ -11,10 +11,14 @@
             "id": "8b26eda802f5d8cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Week6 - Week1/Comprehensive.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Comprehensive"
             }
           }
         ]
@@ -174,10 +178,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dc23bfff22bf6a73",
+  "active": "8b26eda802f5d8cd",
   "lastOpenFiles": [
-    "Week6 - Week1",
     "Untitled.md",
+    "Week6 - Week1/Comprehensive.md",
+    "Week6 - Week1",
     "week1/Theory/1.Var,Let,Const/1.var - MDN.pdf",
     "README.md",
     "week1/Theory/1.Var,Let,Const/2.let - MDN.pdf",
@@ -204,7 +209,6 @@
     "Week6/Theory/6.Memoization",
     "Assets/Fibonaaci.png",
     "Assets",
-    "Week6/Theory/5.Factorial",
     "Excalidraw/Drawing 2025-06-02 17.17.11.excalidraw.md"
   ]
 }
