@@ -11,14 +11,12 @@
             "id": "8b26eda802f5d8cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Week6 - Week1/Comprehensive.md",
-                "mode": "source",
-                "source": false
+                "file": "week1/Theory/1.Var,Let,Const/4.Difference between var, let and const keywords in JavaScript.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Comprehensive"
+              "icon": "lucide-file-text",
+              "title": "4.Difference between var, let and const keywords in JavaScript"
             }
           }
         ]
@@ -180,8 +178,8 @@
   },
   "active": "8b26eda802f5d8cd",
   "lastOpenFiles": [
-    "Untitled.md",
     "Week6 - Week1/Comprehensive.md",
+    "Untitled.md",
     "Week6 - Week1",
     "week1/Theory/1.Var,Let,Const/1.var - MDN.pdf",
     "README.md",
