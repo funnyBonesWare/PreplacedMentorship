@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "week1/Theory/2.TypesOfFunctions/3.Functions - JavaScript _ MDN.pdf"
+                "file": "week1/Theory/2.TypesOfFunctions/5.Higher Order Functions _ GeeksforGeeks.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "3.Functions - JavaScript _ MDN"
+              "title": "5.Higher Order Functions _ GeeksforGeeks"
             }
           }
         ]
@@ -178,6 +178,8 @@
   },
   "active": "63fa4641a715e778",
   "lastOpenFiles": [
+    "week1/Theory/2.TypesOfFunctions/4.Callbacks _ GeeksforGeeks.pdf",
+    "week1/Theory/2.TypesOfFunctions/3.Functions - JavaScript _ MDN.pdf",
     "week1/Theory/2.TypesOfFunctions/2.Arrow functions in JavaScript _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/1.Immediately Invoked Function Expressions (IIFE) in JavaScript _ GeeksforGeeks.pdf",
     "Week6 - Week1/Comprehensive.md",
@@ -203,9 +205,7 @@
     "Week6/Theory/2.Closure/1. Closure.md",
     "Week6/Theory/1.Event and Event Function Constructor/2. Setup Event Handlers.md",
     "Assets/Throttle.png",
-    "Week6/Theory/8.Throttle",
     "Assets/Debounce.png",
-    "Week6/Theory/7.Debounce",
     "Assets/Memoization1.png",
     "Assets/Fibonaaci.png",
     "Excalidraw/Drawing 2025-06-02 17.17.11.excalidraw.md"
