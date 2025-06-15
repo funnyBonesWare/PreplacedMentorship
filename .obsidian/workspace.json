@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "week1/Theory/2.TypesOfFunctions/5.Higher Order Functions _ GeeksforGeeks.pdf"
+                "file": "week1/Theory/5.Temporal Dead Zone/Temporal Dead Zone in JavaScript _ GeeksforGeeks.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "5.Higher Order Functions _ GeeksforGeeks"
+              "title": "Temporal Dead Zone in JavaScript _ GeeksforGeeks"
             }
           }
         ]
@@ -178,6 +178,10 @@
   },
   "active": "63fa4641a715e778",
   "lastOpenFiles": [
+    "week1/Theory/4.Hoisting/Hoisting - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf",
+    "week1/Theory/3.Execution Context/JavaScript Code Execution _ GeeksforGeeks.pdf",
+    "week1/Theory/2.TypesOfFunctions/6.Difference between ‘function declaration’ and ‘function expression’ in JavaScript _ GeeksforGeeks.pdf",
+    "week1/Theory/2.TypesOfFunctions/5.Higher Order Functions _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/4.Callbacks _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/3.Functions - JavaScript _ MDN.pdf",
     "week1/Theory/2.TypesOfFunctions/2.Arrow functions in JavaScript _ GeeksforGeeks.pdf",
@@ -188,11 +192,7 @@
     "Week6 - Week1",
     "week1/Theory/1.Var,Let,Const/1.var - MDN.pdf",
     "README.md",
-    "week1/Theory/1.Var,Let,Const/2.let - MDN.pdf",
-    "week1/Theory/1.Var,Let,Const/3.const - MDN.pdf",
     "Week6/Theory/6.Memoization/Memoization.md",
-    "Week4/Theory/1.Constructor/2.Functionand constructor theory.pdf",
-    "Week4/Theory/1.Constructor/1.FUnctionvsClassConstructor.pdf",
     "Week6/Tasks.md",
     "Week6/Theory/8.Throttle/Throttle.md",
     "Week6/Theory/7.Debounce/Debounce.md",
