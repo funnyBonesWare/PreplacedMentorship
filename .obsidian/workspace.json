@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "week1/Theory/7.Scope/1.Scope.pdf"
+                "file": "Week2/Theory/1. Refrence,Type and Syntax Error/3. ErrorandExceptionHandling.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "1.Scope"
+              "title": "3. ErrorandExceptionHandling"
             }
           }
         ]
@@ -178,17 +178,19 @@
   },
   "active": "63fa4641a715e778",
   "lastOpenFiles": [
+    "Week2/Theory/1. Refrence,Type and Syntax Error/2.EasytermsDefinitionofTypesoferror.pdf",
+    "Week2/Theory/1. Refrence,Type and Syntax Error/1.TypesofError.pdf",
+    "week1/Theory/Position/TechDefPositions.pdf",
+    "week1/Theory/Position/Positions.pdf",
+    "week1/Theory/Flex/FlexCheatSheet2.png",
+    "week1/Theory/Flex/FlexCheatSheet.png",
     "week1/Theory/7.Scope/3.Lexical Environment.pdf",
-    "week1/Theory/7.Scope/2.Scope Chain.pdf",
     "week1/Theory/7.Scope/1.Scope.pdf",
+    "week1/Theory/7.Scope/2.Scope Chain.pdf",
     "week1/Theory/6.Shadowing/Shadowing.pdf",
     "week1/Theory/5.Temporal Dead Zone/Temporal Dead Zone in JavaScript _ GeeksforGeeks.pdf",
     "week1/Theory/4.Hoisting/Hoisting - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf",
     "week1/Theory/3.Execution Context/JavaScript Code Execution _ GeeksforGeeks.pdf",
-    "week1/Theory/2.TypesOfFunctions/6.Difference between ‘function declaration’ and ‘function expression’ in JavaScript _ GeeksforGeeks.pdf",
-    "week1/Theory/2.TypesOfFunctions/5.Higher Order Functions _ GeeksforGeeks.pdf",
-    "week1/Theory/2.TypesOfFunctions/4.Callbacks _ GeeksforGeeks.pdf",
-    "week1/Theory/2.TypesOfFunctions/3.Functions - JavaScript _ MDN.pdf",
     "Week6 - Week1/Comprehensive.md",
     "Untitled.md",
     "README.md",
