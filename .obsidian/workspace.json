@@ -179,6 +179,7 @@
   },
   "active": "31754b51f2c55ff3",
   "lastOpenFiles": [
+    "Polyfills/setTimeouts.js",
     "Polyfills/setInterval.js",
     "Polyfills/setTimeout.js",
     "Polyfills/setTimeout.md",
@@ -195,7 +196,6 @@
     "Week3/Theory/1.DomContentLoadedvsLoad/2.DOMContentLoaded.pdf",
     "Week3/Theory/1.DomContentLoadedvsLoad/1.DOMContentLoaded.pdf",
     "Week2/Theory/7. ArrayMethods/array_methods_comprehensive.pdf",
-    "Week2/Theory/7. ArrayMethods/1.Array Methods.pdf",
     "week1/Theory/Flex/FlexCheatSheet2.png",
     "week1/Theory/Flex/FlexCheatSheet.png",
     "Week6 - Week1/Comprehensive.md",
