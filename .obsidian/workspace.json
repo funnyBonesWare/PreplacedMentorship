@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2293a11640e93db4",
+        "id": "9c5f5de037af39b9",
         "type": "tabs",
         "children": [
           {
-            "id": "26ad8058f89fe047",
+            "id": "a8fa3d5b2dd0cf8d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,14 +170,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "vscode-editor:Create Code File": false
     }
   },
   "active": "dc23bfff22bf6a73",
   "lastOpenFiles": [
-    "Polyfills/setInterval&Timeout/setTimeout.js",
+    "Polyfills/setTimeout.js",
     "Polyfills/setInterval&Timeout/setTimeouts.js",
-    "Polyfills/setInterval&Timeout/setInterval.js",
+    "Polyfills/setInterval.js",
     "Polyfills/setInterval&Timeout",
     "Polyfills/setTimeouts.js",
     "Polyfills/setInterval.js",
