@@ -177,8 +177,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "31754b51f2c55ff3",
+  "active": "dc23bfff22bf6a73",
   "lastOpenFiles": [
+    "Polyfills/setInterval&Timeout/setTimeout.js",
+    "Polyfills/setInterval&Timeout/setTimeouts.js",
+    "Polyfills/setInterval&Timeout/setInterval.js",
+    "Polyfills/setInterval&Timeout",
     "Polyfills/setTimeouts.js",
     "Polyfills/setInterval.js",
     "Polyfills/setTimeout.js",
@@ -192,10 +196,6 @@
     "Week7",
     "Week3/Theory/2.Prototype/1.Prototype.pdf",
     "Week3/Theory/1.DomContentLoadedvsLoad/5.Difference between document `load` event and document `DOMContentLoaded` event_ _ Quiz Interview Questions with Solutions.pdf",
-    "Week3/Theory/1.DomContentLoadedvsLoad/4.DomCOntentLoadedvsLoad.pdf",
-    "Week3/Theory/1.DomContentLoadedvsLoad/2.DOMContentLoaded.pdf",
-    "Week3/Theory/1.DomContentLoadedvsLoad/1.DOMContentLoaded.pdf",
-    "Week2/Theory/7. ArrayMethods/array_methods_comprehensive.pdf",
     "week1/Theory/Flex/FlexCheatSheet2.png",
     "week1/Theory/Flex/FlexCheatSheet.png",
     "Week6 - Week1/Comprehensive.md",
