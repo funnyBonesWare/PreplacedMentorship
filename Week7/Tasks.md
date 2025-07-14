@@ -1,5 +1,5 @@
 
-settimeout, cleartimeout
+settimeout, cleartimeout ✅
 
 setinterval, clearInterval
 
