@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week7/1. SetTimeout.md",
+                "file": "Week7/2. clearTimeout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. SetTimeout"
+              "title": "2. clearTimeout"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "9395acb2ce36ec81",
   "lastOpenFiles": [
+    "Week7/1. setTimeout.md",
+    "Week7/2. clearTimeout.md",
     "Week7/Tasks.md",
-    "Week7/1. SetTimeout.md",
     "Week7",
     "Week3/Theory/2.Prototype/1.Prototype.pdf",
     "Week3/Theory/1.DomContentLoadedvsLoad/5.Difference between document `load` event and document `DOMContentLoaded` event_ _ Quiz Interview Questions with Solutions.pdf",
