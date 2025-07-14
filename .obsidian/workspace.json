@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "221506523dab64c7",
+        "id": "0580568f23a59b12",
         "type": "tabs",
         "children": [
           {
-            "id": "63fa4641a715e778",
+            "id": "9395acb2ce36ec81",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Week3/Theory/2.Prototype/1.Prototype.pdf"
+                "file": "Week7/1. SetTimeout.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1.Prototype"
+              "icon": "lucide-file",
+              "title": "1. SetTimeout"
             }
           }
         ]
@@ -176,8 +178,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "63fa4641a715e778",
+  "active": "9395acb2ce36ec81",
   "lastOpenFiles": [
+    "Week7/Tasks.md",
+    "Week7/1. SetTimeout.md",
+    "Week7",
+    "Week3/Theory/2.Prototype/1.Prototype.pdf",
     "Week3/Theory/1.DomContentLoadedvsLoad/5.Difference between document `load` event and document `DOMContentLoaded` event_ _ Quiz Interview Questions with Solutions.pdf",
     "Week3/Theory/1.DomContentLoadedvsLoad/4.DomCOntentLoadedvsLoad.pdf",
     "Week3/Theory/1.DomContentLoadedvsLoad/2.DOMContentLoaded.pdf",
@@ -186,9 +192,6 @@
     "Week2/Theory/7. ArrayMethods/1.Array Methods.pdf",
     "Week2/Theory/6.Reflow/1.What are Reflow and Repaint_ How to optimize_｜ExplainThis.pdf",
     "Week2/Theory/5.AsyncDefer/2.Async vs Defer in JavaScript_ Which is Better_🤔 - DEV Community.pdf",
-    "Week2/Theory/4.CriticalRenderingPath/2.Understand the critical path  _  web.dev.pdf",
-    "Week2/Theory/4.CriticalRenderingPath/1.Critical Rendering Path_ What It Is and How to Optimize It.pdf",
-    "Week2/Theory/3.CallByValuevsRefrence/Call by Value Vs Call by Reference in JavaScript _ GeeksforGeeks.pdf",
     "week1/Theory/Flex/FlexCheatSheet2.png",
     "week1/Theory/Flex/FlexCheatSheet.png",
     "Week6 - Week1/Comprehensive.md",
