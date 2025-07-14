@@ -1,7 +1,7 @@
 
 settimeout, cleartimeout ✅
 
-setinterval, clearInterval
+setinterval, clearInterval ✅
 
 async callback [Pyramid of DOOM, Inversion of Control]
 
