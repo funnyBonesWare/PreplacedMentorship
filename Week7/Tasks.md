@@ -5,7 +5,7 @@ setinterval, clearInterval ✅
 
 async callback [Pyramid of DOOM, Inversion of Control] ✅
 
-Promises (consume and produce)
+Promises (consume and produce) ✅
 
 async and await
 
