@@ -7,7 +7,7 @@ async callback [Pyramid of DOOM, Inversion of Control] ✅
 
 Promises (consume and produce) ✅
 
-async and await
+async and await  ✅
 
 Promise api/methods: all, allsettled, any, race
 
