@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week7/Tasks.md",
+                "file": "Week7/A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "A"
             }
           }
         ]
@@ -181,12 +181,13 @@
   },
   "active": "a8fa3d5b2dd0cf8d",
   "lastOpenFiles": [
+    "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
+    "Week7/A.md",
     "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
+    "Week7/1. setTimeout.md",
     "Week7/Tasks.md",
     "Week7/6. Javascript Event loop.md",
-    "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
     "Week7/4. clearInterval.md",
-    "Week7/1. setTimeout.md",
     "Week7/3.setInterval.md",
     "Polyfills/setTimeout.js",
     "Polyfills/setInterval&Timeout/setTimeouts.js",
@@ -221,7 +222,6 @@
     "Assets/Throttle.png",
     "Assets/Debounce.png",
     "Assets/Memoization1.png",
-    "Assets/Fibonaaci.png",
-    "Excalidraw/Drawing 2025-06-02 17.17.11.excalidraw.md"
+    "Assets/Fibonaaci.png"
   ]
 }
