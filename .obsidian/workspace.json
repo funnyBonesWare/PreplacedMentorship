@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Week7/Tasks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +180,10 @@
   },
   "active": "ccdafb2a880a2b52",
   "lastOpenFiles": [
-    "Polyfills/Promise/myAll.js",
+    "Week7/12.JavaScript Engine.pdf",
     "Polyfills/Promise/myAllSettled.js",
+    "Polyfills/Promise/myAll.js",
+    "Week7/Tasks.md",
     "Polyfills/Promise/myAllSettledmyAllPromise.js",
     "Polyfills/Promise/myAllPromise.js",
     "Polyfills/Promise/Promise.all.js",
@@ -192,8 +193,6 @@
     "Polyfills/Promise/myAny.js",
     "Polyfills/Promise/Promise.race.js",
     "Polyfills/Promise/Promise.any.js",
-    "Polyfills/Promise/Promise.allSettled.js",
-    "Week7/Tasks.md",
     "Week7/A.md",
     "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
