@@ -3,7 +3,7 @@ settimeout, cleartimeout ✅
 
 setinterval, clearInterval ✅
 
-async callback [Pyramid of DOOM, Inversion of Control]
+async callback [Pyramid of DOOM, Inversion of Control] ✅
 
 Promises (consume and produce)
 
