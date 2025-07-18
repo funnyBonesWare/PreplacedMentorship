@@ -1,16 +1,4 @@
-/**
- * Simple myRace Polyfill for Beginners
- * 
- * myRace waits for the first promise to complete (success or failure).
- * It returns the result of whichever promise finishes first.
- * It's designed to be easy to understand and learn from.
- */
 
-/**
- * myRace - waits for the first promise to complete (success or failure)
- * @param {Array} promises - array of promises to race
- * @returns {Promise} - resolves or rejects with the first promise that completes
- */
 function myRace(promises) {
     
     // Make sure we have an array of promises
@@ -70,16 +58,3 @@ function myRace(promises) {
         });
     });
 }
-
-// Tell the user that our polyfill is working
-console.log('Simple myRace polyfill loaded!');
-
-// Make it available for use in Node.js
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = myRace;
-}
-
-// Make it available globally
-if (typeof window !== 'undefined') {
-    window.myRace = myRace;
-} 
