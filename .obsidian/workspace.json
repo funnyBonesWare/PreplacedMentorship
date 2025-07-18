@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week7/Tasks.md",
+                "file": "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "5. Async Callback - Start Of Asynchronous Javascript"
             }
           }
         ]
@@ -181,6 +181,8 @@
   },
   "active": "a8fa3d5b2dd0cf8d",
   "lastOpenFiles": [
+    "Week7/Tasks.md",
+    "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
     "Week7/4. clearInterval.md",
     "Week7/1. setTimeout.md",
     "Week7/3.setInterval.md",
@@ -194,7 +196,6 @@
     "Polyfills/setTimeout.md",
     "Polyfills/SetTimeout/Untitled.md",
     "Polyfills/SetTimeout",
-    "Week7/Tasks.md",
     "Week7/2. clearTimeout.md",
     "Week7",
     "Week3/Theory/2.Prototype/1.Prototype.pdf",
