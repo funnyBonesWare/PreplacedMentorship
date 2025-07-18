@@ -11,6 +11,6 @@ async and await  ✅
 
 Promise api/methods: all, allsettled, any, race ✅
 
-Promises Polyfills: myAll, myAllsettled, myAny, myRace
+Promises Polyfills: myAll, myAllsettled, myAny, myRace 
 
 JS Engine
