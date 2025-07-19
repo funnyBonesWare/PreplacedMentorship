@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "04c2035ff6abb6a2",
+        "id": "b8f9bc58796dc095",
         "type": "tabs",
         "children": [
           {
-            "id": "2de81619f559566d",
+            "id": "e99b3a554ebc4a56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week7/1. setTimeout.md",
+                "file": "Week7/Tasks.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. setTimeout"
+              "title": "Tasks"
             }
           }
         ]
@@ -179,15 +179,18 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "2de81619f559566d",
+  "active": "e99b3a554ebc4a56",
   "lastOpenFiles": [
+    "Week7/10.Async_Await.pdf",
+    "Week7/Tasks.md",
     "Week7/12.JavaScript Engine.pdf",
+    "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf",
+    "Week7/1. setTimeout.md",
     "Polyfills/Promise/myRace.js",
     "Polyfills/Promise/myAny.js",
     "Polyfills/Promise/myAllSettled.js",
     "Polyfills/Promise/myAll.js",
     "Week7/9.Promises in Js.pdf",
-    "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf",
     "Polyfills/setTimeout.js",
     "Week7/11.promisemethods.pdf",
     "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
@@ -196,10 +199,7 @@
     "Week7/4. clearInterval.md",
     "Week7/3.setInterval.md",
     "Week7/2. clearTimeout.md",
-    "Week7/1. setTimeout.md",
-    "Week7/Tasks.md",
     "Polyfills/Promise/myAllSettledmyAllPromise.js",
-    "Polyfills/Promise/myAllPromise.js",
     "Polyfills/Promise/README.md",
     "Week7/A.md",
     "Polyfills/setTimeout.md",
