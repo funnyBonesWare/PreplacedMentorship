@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b8f9bc58796dc095",
+        "id": "1a8fa8a3f06180c2",
         "type": "tabs",
         "children": [
           {
-            "id": "e99b3a554ebc4a56",
+            "id": "8534f8023a76c6d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week7/Tasks.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "New tab"
             }
           }
         ]
@@ -179,12 +175,13 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "e99b3a554ebc4a56",
+  "active": "8534f8023a76c6d1",
   "lastOpenFiles": [
-    "Week7/10.Async_Await.pdf",
-    "Week7/Tasks.md",
-    "Week7/12.JavaScript Engine.pdf",
+    "Week7/6. Javascript Event loop.md",
     "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf",
+    "Week7/Tasks.md",
+    "Week7/10.Async_Await.pdf",
+    "Week7/12.JavaScript Engine.pdf",
     "Week7/1. setTimeout.md",
     "Polyfills/Promise/myRace.js",
     "Polyfills/Promise/myAny.js",
@@ -195,11 +192,9 @@
     "Week7/11.promisemethods.pdf",
     "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
-    "Week7/6. Javascript Event loop.md",
     "Week7/4. clearInterval.md",
     "Week7/3.setInterval.md",
     "Week7/2. clearTimeout.md",
-    "Polyfills/Promise/myAllSettledmyAllPromise.js",
     "Polyfills/Promise/README.md",
     "Week7/A.md",
     "Polyfills/setTimeout.md",
