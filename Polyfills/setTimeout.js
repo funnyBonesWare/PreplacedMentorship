@@ -137,13 +137,5 @@ if (typeof globalThis.setTimeout === 'undefined') {
             }
         }
     }
-    
-    // Tell the user that our polyfill is working
-    console.log('Simple setTimeout polyfill loaded!');
-}
-
-// Make it available for use in Node.js
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = globalThis.setTimeout;
 }
 

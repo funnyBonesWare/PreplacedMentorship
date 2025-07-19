@@ -11,12 +11,12 @@
             "id": "ccdafb2a880a2b52",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "vscode-editor",
               "state": {
-                "file": "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf"
+                "file": "Polyfills/setTimeout.js"
               },
-              "icon": "lucide-file-text",
-              "title": "8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control"
+              "icon": "lucide-file",
+              "title": "setTimeout"
             }
           }
         ]
@@ -179,8 +179,10 @@
   },
   "active": "ccdafb2a880a2b52",
   "lastOpenFiles": [
-    "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
+    "Week7/11.promisemethods.pdf",
+    "Week7/9.Promises in Js.pdf",
     "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf",
+    "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
     "Week7/6. Javascript Event loop.md",
     "Week7/4. clearInterval.md",
@@ -188,8 +190,6 @@
     "Week7/2. clearTimeout.md",
     "Week7/1. setTimeout.md",
     "Week7/12.JavaScript Engine.pdf",
-    "Week7/11.promisemethods.pdf",
-    "Week7/9.Promises in Js.pdf",
     "Week7/Tasks.md",
     "Polyfills/Promise/myAllSettled.js",
     "Polyfills/Promise/myAll.js",
