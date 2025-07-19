@@ -11,14 +11,12 @@
             "id": "ccdafb2a880a2b52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
-                "mode": "preview",
-                "source": false
+                "file": "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf"
               },
-              "icon": "lucide-file",
-              "title": "7. Pyramid of Doom A.K.A CallBack Hell"
+              "icon": "lucide-file-text",
+              "title": "8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control"
             }
           }
         ]
@@ -181,9 +179,9 @@
   },
   "active": "ccdafb2a880a2b52",
   "lastOpenFiles": [
+    "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf",
     "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
-    "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/6. Javascript Event loop.md",
     "Week7/4. clearInterval.md",
     "Week7/3.setInterval.md",
