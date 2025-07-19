@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Week7/6. Javascript Event loop.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,13 +181,17 @@
   },
   "active": "ccdafb2a880a2b52",
   "lastOpenFiles": [
+    "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
+    "Week7/4. clearInterval.md",
+    "Week7/3.setInterval.md",
+    "Week7/2. clearTimeout.md",
+    "Week7/1. setTimeout.md",
+    "Week7/6. Javascript Event loop.md",
     "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/12.JavaScript Engine.pdf",
     "Week7/11.promisemethods.pdf",
     "Week7/9.Promises in Js.pdf",
     "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf",
-    "Week7/6. Javascript Event loop.md",
-    "Week7/1. setTimeout.md",
     "Week7/Tasks.md",
     "Polyfills/Promise/myAllSettled.js",
     "Polyfills/Promise/myAll.js",
@@ -196,12 +201,8 @@
     "Polyfills/Promise/README.md",
     "Polyfills/Promise/index.js",
     "Week7/A.md",
-    "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
-    "Week7/4. clearInterval.md",
-    "Week7/3.setInterval.md",
     "Polyfills/setTimeout.md",
     "Polyfills/SetTimeout/Untitled.md",
-    "Week7/2. clearTimeout.md",
     "week1/Theory/Flex/FlexCheatSheet2.png",
     "week1/Theory/Flex/FlexCheatSheet.png",
     "Week6 - Week1/Comprehensive.md",
