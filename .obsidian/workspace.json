@@ -11,14 +11,12 @@
             "id": "8534f8023a76c6d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "Week7/Tasks.md",
-                "mode": "preview",
-                "source": false
+                "file": "Polyfills/Promise/myAny.js"
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "myAny"
             }
           }
         ]
@@ -181,16 +179,16 @@
   },
   "active": "8534f8023a76c6d1",
   "lastOpenFiles": [
+    "Polyfills/Promise/myAllSettled.js",
+    "Polyfills/Promise/myAll.js",
+    "Week7/Tasks.md",
     "Week7/6. Javascript Event loop.md",
     "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf",
-    "Week7/Tasks.md",
     "Week7/10.Async_Await.pdf",
     "Week7/12.JavaScript Engine.pdf",
     "Week7/1. setTimeout.md",
     "Polyfills/Promise/myRace.js",
     "Polyfills/Promise/myAny.js",
-    "Polyfills/Promise/myAllSettled.js",
-    "Polyfills/Promise/myAll.js",
     "Week7/9.Promises in Js.pdf",
     "Polyfills/setTimeout.js",
     "Week7/11.promisemethods.pdf",
