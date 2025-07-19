@@ -1,12 +1,4 @@
-/**
- * Simple setTimeout Polyfill for Beginners
- * 
- * This is a basic version that shows how setTimeout works.
- * It's designed to be easy to understand and learn from.
- */
 
-// Only create the polyfill if setTimeout doesn't already exist
-if (typeof globalThis.setTimeout === 'undefined') {
     
     // Keep track of all our timers
     let timers = {};
@@ -14,12 +6,6 @@ if (typeof globalThis.setTimeout === 'undefined') {
     // Give each timer a unique number
     let nextTimerId = 1;
     
-    /**
-     * setTimeout - runs a function after waiting for some time
-     * @param {Function} callback - the function to run
-     * @param {number} delay - how long to wait (in milliseconds)
-     * @returns {number} - a number to identify this timer
-     */
     globalThis.setTimeout = function(callback, delay) {
         
         // Make sure we have a function to run

@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "00e70708f8c60bb6",
+        "id": "f67cc256a0b10c93",
         "type": "tabs",
         "children": [
           {
-            "id": "ccdafb2a880a2b52",
+            "id": "f7ffcdf92b064b7a",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "pdf",
               "state": {
-                "file": "Polyfills/setTimeout.js"
+                "file": "Week7/9.Promises in Js.pdf"
               },
-              "icon": "lucide-file",
-              "title": "setTimeout"
+              "icon": "lucide-file-text",
+              "title": "9.Promises in Js"
             }
           }
         ]
@@ -177,8 +177,9 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "ccdafb2a880a2b52",
+  "active": "f7ffcdf92b064b7a",
   "lastOpenFiles": [
+    "Polyfills/setTimeout.js",
     "Week7/11.promisemethods.pdf",
     "Week7/9.Promises in Js.pdf",
     "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf",
