@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Week7/9.Promises in Js.pdf"
+                "file": "Week7/11.promisemethods.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "9.Promises in Js"
+              "title": "11.promisemethods"
             }
           }
         ]
@@ -179,9 +179,9 @@
   },
   "active": "f7ffcdf92b064b7a",
   "lastOpenFiles": [
+    "Week7/9.Promises in Js.pdf",
     "Polyfills/setTimeout.js",
     "Week7/11.promisemethods.pdf",
-    "Week7/9.Promises in Js.pdf",
     "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf",
     "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
