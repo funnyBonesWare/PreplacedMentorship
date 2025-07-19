@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week7/1. setTimeout.md",
+                "file": "Week7/6. Javascript Event loop.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. setTimeout"
+              "title": "6. Javascript Event loop"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "ccdafb2a880a2b52",
   "lastOpenFiles": [
+    "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
+    "Week7/1. setTimeout.md",
     "Week7/Tasks.md",
     "Week7/12.JavaScript Engine.pdf",
     "Polyfills/Promise/myAllSettled.js",
@@ -193,9 +195,7 @@
     "Polyfills/Promise/myAny.js",
     "Polyfills/Promise/Promise.race.js",
     "Week7/A.md",
-    "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
-    "Week7/1. setTimeout.md",
     "Week7/6. Javascript Event loop.md",
     "Week7/4. clearInterval.md",
     "Week7/3.setInterval.md",
