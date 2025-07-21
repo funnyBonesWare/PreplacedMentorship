@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "week1/Theory/1.Var,Let,Const/1.var - MDN.pdf"
+                "file": "week1/Theory/1.Var,Let,Const/4.Difference between var, let and const keywords in JavaScript.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "1.var - MDN"
+              "title": "4.Difference between var, let and const keywords in JavaScript"
             }
           }
         ]
@@ -177,9 +177,12 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "dc23bfff22bf6a73",
+  "active": "50586ee00bcaa08b",
   "lastOpenFiles": [
-    "Week1-7",
+    "week1/Theory/1.Var,Let,Const/1.var - MDN.pdf",
+    "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
+    "Untitled.md",
+    "Week8 - Mock Comprehensive-(1-7)",
     "Week2/Tasks.md",
     "week1/Tasks.md",
     "Week2/tasks.txt.sb-ce9324f0-ocPgcg",
@@ -195,8 +198,6 @@
     "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf",
     "Week7/10.Async_Await.pdf",
     "Week7/1. setTimeout.md",
-    "Week7/9.Promises in Js.pdf",
-    "Polyfills/setTimeout.js",
     "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
     "Week7/4. clearInterval.md",
@@ -208,7 +209,6 @@
     "Polyfills/SetTimeout/Untitled.md",
     "week1/Theory/Flex/FlexCheatSheet2.png",
     "week1/Theory/Flex/FlexCheatSheet.png",
-    "Untitled.md",
     "README.md",
     "Week6/Theory/6.Memoization/Memoization.md",
     "Week6/Theory/8.Throttle/Throttle.md",
@@ -216,7 +216,6 @@
     "Week6/Theory/5.Factorial/Factorial.md",
     "Week6/Theory/4.Fibonacci/Fibonacci.md",
     "Week6/Theory/3.Currying/1. Currying.md",
-    "Week6/Theory/1.Event and Event Function Constructor/4. Event Object Constructor Function.md",
     "Assets/Throttle.png",
     "Assets/Debounce.png",
     "Assets/Memoization1.png",
