@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1a8fa8a3f06180c2",
+        "id": "820a14e310bd9d0e",
         "type": "tabs",
         "children": [
           {
-            "id": "8534f8023a76c6d1",
+            "id": "50586ee00bcaa08b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Week6/Tasks.md",
-                "mode": "preview",
-                "source": false
+                "file": "week1/Theory/1.Var,Let,Const/1.var - MDN.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Tasks"
+              "icon": "lucide-file-text",
+              "title": "1.var - MDN"
             }
           }
         ]
@@ -179,8 +177,14 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "8534f8023a76c6d1",
+  "active": "dc23bfff22bf6a73",
   "lastOpenFiles": [
+    "Week1-7",
+    "Week2/Tasks.md",
+    "week1/Tasks.md",
+    "Week2/tasks.txt.sb-ce9324f0-ocPgcg",
+    "Week6 - Week1/Comprehensive.md",
+    "Week6/Tasks.md",
     "Week7/12.JavaScript Engine.pdf",
     "Polyfills/Promise/myRace.js",
     "Week7/Tasks.md",
@@ -193,7 +197,6 @@
     "Week7/1. setTimeout.md",
     "Week7/9.Promises in Js.pdf",
     "Polyfills/setTimeout.js",
-    "Week7/11.promisemethods.pdf",
     "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
     "Week7/4. clearInterval.md",
@@ -205,19 +208,15 @@
     "Polyfills/SetTimeout/Untitled.md",
     "week1/Theory/Flex/FlexCheatSheet2.png",
     "week1/Theory/Flex/FlexCheatSheet.png",
-    "Week6 - Week1/Comprehensive.md",
     "Untitled.md",
     "README.md",
     "Week6/Theory/6.Memoization/Memoization.md",
-    "Week6/Tasks.md",
     "Week6/Theory/8.Throttle/Throttle.md",
     "Week6/Theory/7.Debounce/Debounce.md",
     "Week6/Theory/5.Factorial/Factorial.md",
     "Week6/Theory/4.Fibonacci/Fibonacci.md",
     "Week6/Theory/3.Currying/1. Currying.md",
     "Week6/Theory/1.Event and Event Function Constructor/4. Event Object Constructor Function.md",
-    "Week6/Theory/1.Event and Event Function Constructor/3. Event Objects.md",
-    "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
     "Assets/Throttle.png",
     "Assets/Debounce.png",
     "Assets/Memoization1.png",

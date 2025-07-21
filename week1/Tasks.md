@@ -1,6 +1,3 @@
-//Theory
- Js Fundamentals
-
  Types of Variables [var, let and const] ✅
 
  Types of Functions [IIFE, arrow, functn Declaration, Statement, Expression, callback, HOF] ✅
