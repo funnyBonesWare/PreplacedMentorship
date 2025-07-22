@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Week1/Theory/1.Var,Let,Const/1.var - MDN.pdf"
+                "file": "Week1/Theory/1.Var,Let,Const/2.let - MDN.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "1.var - MDN"
+              "title": "2.let - MDN"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "Week 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b273da74a2ae7b5a",
+  "active": "7132d150abc28579",
   "lastOpenFiles": [
     "Week1/Theory/1.Var,Let,Const/1.var - MDN.pdf",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
