@@ -38,8 +38,16 @@ if (x === 1) {
 - let declarations cannot be redeclared by any other declaration in the same scope
 
 ### <font color="#00b050">3. Const</font>
-
 - The const declaration declares block-scoped local variables. The value of a constant can't be changed through reassignment using the assignment operator, but if a constant is an object, its properties can be added, updated, or removed
+```js
+const number = 42;
+try {
+    number = 99;
+} catch (err) {
+    console.log(err); // Expected output: TypeError: invalid assignment to const 'number' // (Note: the exact output may be browser-dependent) 
+} console.log(number); // Expected output: 42
+```
 
-  
-
+- const declarations are scoped to blocks as well as functions. const declarations can only be accessed after the place of declaration is reached (see temporal dead zone). For this reason, 
+- const declarations are commonly regarded as non-hoisted.
+-  const declarations cannot be redeclared by any other declaration in the same scope
