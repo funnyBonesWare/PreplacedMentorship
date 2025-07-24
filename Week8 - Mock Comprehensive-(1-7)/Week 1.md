@@ -23,4 +23,16 @@ console.log(a); // 2
 var a; 
 console.log(a); // 2; not undefined
 ```
+### <font color="#00b050">2. Let</font>
+
+- The let declaration declares re-assignable, block-scoped local variables.
+```js
+let x = 1;
+if (x === 1) {
+    let x = 2;
+    console.log(x); // Expected output: 2 
+} console.log(x); // Expected output: 1
+```
+
+
 
