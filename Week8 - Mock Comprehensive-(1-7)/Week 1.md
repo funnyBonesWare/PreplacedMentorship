@@ -51,3 +51,16 @@ try {
 - const declarations are scoped to blocks as well as functions. const declarations can only be accessed after the place of declaration is reached (see temporal dead zone). For this reason, 
 - const declarations are commonly regarded as non-hoisted.
 -  const declarations cannot be redeclared by any other declaration in the same scope
+
+### <font color="#00b050">4. Types of Functions</font>
+
+#### <font color="#4bacc6">a. Immediately Invoked Function Expressions (IIFE)</font>
+  - Immediately Invoked Function Expressions (IIFE) are JavaScript functions that are executed immediately after they are defined.
+  - They are typically used to create a local scope for variables to prevent them from polluting the global scope.
+```js
+(function (){ 
+	// Function Logic Here. 
+})();
+```
+
+- 
