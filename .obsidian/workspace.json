@@ -33,8 +33,7 @@
               "title": "Week 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
+                "file": "week1/Theory/3.Execution Context/JavaScript Code Execution _ GeeksforGeeks.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week 1"
+              "title": "Backlinks for JavaScript Code Execution _ GeeksforGeeks"
             }
           },
           {
@@ -192,11 +191,11 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "193dca66b2a1ea97",
+  "active": "5a4e594ea9b512b5",
   "lastOpenFiles": [
+    "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "week1/Theory/3.Execution Context/JavaScript Code Execution _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/5.Higher Order Functions _ GeeksforGeeks.pdf",
-    "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "week1/Theory/2.TypesOfFunctions/4.Callbacks _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/2.Arrow functions in JavaScript _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/6.Difference between ‘function declaration’ and ‘function expression’ in JavaScript _ GeeksforGeeks.pdf",
@@ -212,7 +211,6 @@
     "Week2/tasks.txt.sb-ce9324f0-ocPgcg",
     "Week6 - Week1/Comprehensive.md",
     "Week6/Tasks.md",
-    "Week7/12.JavaScript Engine.pdf",
     "Week7/Tasks.md",
     "Week7/6. Javascript Event loop.md",
     "Week7/1. setTimeout.md",

@@ -199,3 +199,7 @@ console.log(double(5)); // Output: 10
 Higher-order functions help make your code more reusable and modular by allowing you to work with functions like any other value. They can used for memoization, currying etc. array methods like map, forEach etc. are higher order function
 ## <font color="#00b050">5. Execution Context</font>
 
+JavaScript is a synchronous (Moves to the next line only when the execution of the current line is completed) and single-threaded (Executes one command at a time in a specific order one after another serially) language.
+
+Execution Context: Everything in JavaScript is wrapped inside Execution Context, which is an abstract concept (can be treated as a container) that holds the whole information about the environment within which the current JavaScript code is being executed.
+
