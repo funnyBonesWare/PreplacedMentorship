@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "week1/Theory/4.Hoisting/Hoisting - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf"
+                "file": "week1/Theory/5.Temporal Dead Zone/Temporal Dead Zone in JavaScript _ GeeksforGeeks.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Hoisting - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN"
+              "title": "Temporal Dead Zone in JavaScript _ GeeksforGeeks"
             }
           },
           {
@@ -194,6 +194,7 @@
   },
   "active": "193dca66b2a1ea97",
   "lastOpenFiles": [
+    "week1/Theory/5.Temporal Dead Zone/Temporal Dead Zone in JavaScript _ GeeksforGeeks.pdf",
     "week1/Theory/4.Hoisting/Hoisting - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "week1/Theory/3.Execution Context/JavaScript Code Execution _ GeeksforGeeks.pdf",
