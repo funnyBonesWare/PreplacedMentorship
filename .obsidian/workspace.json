@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "week1/Theory/3.Execution Context/JavaScript Code Execution _ GeeksforGeeks.pdf"
+                "file": "week1/Theory/4.Hoisting/Hoisting - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "JavaScript Code Execution _ GeeksforGeeks"
+              "title": "Hoisting - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN"
             }
           },
           {
@@ -33,7 +33,8 @@
               "title": "Week 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week1/Theory/3.Execution Context/JavaScript Code Execution _ GeeksforGeeks.pdf",
+                "file": "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JavaScript Code Execution _ GeeksforGeeks"
+              "title": "Backlinks for Week 1"
             }
           },
           {
@@ -191,8 +192,9 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "5a4e594ea9b512b5",
+  "active": "193dca66b2a1ea97",
   "lastOpenFiles": [
+    "week1/Theory/4.Hoisting/Hoisting - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "week1/Theory/3.Execution Context/JavaScript Code Execution _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/5.Higher Order Functions _ GeeksforGeeks.pdf",
@@ -208,7 +210,6 @@
     "Week8 - Mock Comprehensive-(1-7)",
     "Week2/Tasks.md",
     "week1/Tasks.md",
-    "Week2/tasks.txt.sb-ce9324f0-ocPgcg",
     "Week6 - Week1/Comprehensive.md",
     "Week6/Tasks.md",
     "Week7/Tasks.md",

@@ -355,7 +355,8 @@
     "WorstEver": null
   },
   "userDictionary": [
-    "DOMContentLoaded"
+    "DOMContentLoaded",
+    "ReferenceError"
   ],
   "dialect": 0,
   "delay": -1

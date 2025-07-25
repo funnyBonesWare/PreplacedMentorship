@@ -203,3 +203,23 @@ JavaScript is a synchronous (Moves to the next line only when the execution of t
 
 Execution Context: Everything in JavaScript is wrapped inside Execution Context, which is an abstract concept (can be treated as a container) that holds the whole information about the environment within which the current JavaScript code is being executed.
 
+An Execution Context has two components and JavaScript code gets executed in two phases:
+
+<font color="#f79646">Memory Allocation Phase: </font>In this phase, all the functions and variables of the JavaScript code get stored as a key-value pair inside the memory component of the execution context. In the case of a function, JavaScript copied the whole function into the memory block but in the case of variables, it assigns undefined as a placeholder. 
+<font color="#f79646">Code Execution Phase:</font> In this phase, the JavaScript code is executed one line at a time inside the Code Component (also known as the Thread of execution) of Execution Context.
+
+<font color="#ff0000">Call Stack:</font> When a program starts execution JavaScript pushes the whole program as global context into a stack which is known as Call Stack and continues execution. Whenever JavaScript executes a new context and just follows the same process and pushes to the stack. When the context finishes, JavaScript just pops the top of the stack accordingly.
+## <font color="#00b050">6. Hoisting</font>
+
+Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables, classes, or imports to the top of their scope, prior to execution of the code.
+
+In colloquial terms, any of the following behaviors may be regarded as hoisting: 
+ Being able to use a variable's value in its scope before the line it is declared. ("Value hoisting"), example-> Functions
+
+ Being able to reference a variable in its scope before the line it is declared, without throwing a ReferenceError , but the value is always undefined . ("Declaration hoisting") , example-> "var"
+
+ The declaration of the variable causes behavior changes in its scope before the line in which it is declared. example-> Let, const, Class, also known as Lexical declaration.
+
+ The side effects of a declaration are produced before evaluating the rest of the code that contains it. example-> Import declarations are hoisted with type 1 and type 4 behavior.
+
+
