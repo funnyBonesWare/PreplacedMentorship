@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "week1/Theory/5.Temporal Dead Zone/Temporal Dead Zone in JavaScript _ GeeksforGeeks.pdf"
+                "file": "week1/Theory/7.Scope/1.Scope.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Temporal Dead Zone in JavaScript _ GeeksforGeeks"
+              "title": "1.Scope"
             }
           },
           {
@@ -194,21 +194,20 @@
   },
   "active": "193dca66b2a1ea97",
   "lastOpenFiles": [
+    "week1/Theory/7.Scope/1.Scope.pdf",
     "week1/Theory/5.Temporal Dead Zone/Temporal Dead Zone in JavaScript _ GeeksforGeeks.pdf",
-    "week1/Theory/4.Hoisting/Hoisting - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
+    "week1/Theory/7.Scope/3.Lexical Environment.pdf",
+    "week1/Theory/6.Shadowing/Shadowing.pdf",
+    "week1/Theory/7.Scope/2.Scope Chain.pdf",
+    "week1/Theory/4.Hoisting/Hoisting - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf",
     "week1/Theory/3.Execution Context/JavaScript Code Execution _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/5.Higher Order Functions _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/4.Callbacks _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/2.Arrow functions in JavaScript _ GeeksforGeeks.pdf",
-    "week1/Theory/2.TypesOfFunctions/6.Difference between ‘function declaration’ and ‘function expression’ in JavaScript _ GeeksforGeeks.pdf",
-    "week1/Theory/2.TypesOfFunctions/3.Functions - JavaScript _ MDN.pdf",
     "conflict-files-obsidian-git.md",
     "README.md",
-    "week1/Theory/1.Var,Let,Const/4.Difference between var, let and const keywords in JavaScript.pdf",
-    "week1/Theory/1.Var,Let,Const/1.var - MDN.pdf",
     "Untitled.md",
-    "Week8 - Mock Comprehensive-(1-7)",
     "Week2/Tasks.md",
     "week1/Tasks.md",
     "Week6 - Week1/Comprehensive.md",

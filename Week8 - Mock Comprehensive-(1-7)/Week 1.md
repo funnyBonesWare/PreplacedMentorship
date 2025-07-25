@@ -224,5 +224,22 @@ In colloquial terms, any of the following behaviors may be regarded as hoisting:
  The side effects of a declaration are produced before evaluating the rest of the code that contains it. example-> Import declarations are hoisted with type 1 and type 4 behavior.
 ### <font color="#00b050">7. Temporal Dead Zone</font>
 
+The Temporal Dead Zone refers to the period between the entering of a scope and the actual declaration of a variable using let or const. During this period, the variable is in an "uninitialized" state and accessing it will result in a ReferenceError. 
+
+- The TDZ starts from the beginning of the block until the variable is declared. 
+- Variables declared with let and const are hoisted but not initialized. 
+- Accessing the variable in the TDZ results in a ReferenceError. 
+- var declarations do not have a TDZ and are initialized as undefined.
+
+The Temporal Dead Zone works in the following manner:
+
+1. <font color="#ffc000">Variable is declared with let or const:</font>When the variable is hoisted at the top of its current scope but they are not initialized. 
+2. <font color="#ffc000">Entering TDZ:</font> From the hoisting till the variable initialization it will show the reference error if tried to access.
+3. <font color="#ffc000">Variable initialization:</font> When the value is assigned to the variable from that point of time they exits no longer in the TDZ. 
+4. <font color="#ffc000">Accessing the variable:</font>The variables can be accessed normally after the initialization without any errors.
+### <font color="#00b050">8. Scope,Scope Chaining and lexical Environment</font>
+
+
+
 
 
