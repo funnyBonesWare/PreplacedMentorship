@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "week1/Theory/2.TypesOfFunctions/4.Callbacks _ GeeksforGeeks.pdf"
+                "file": "week1/Theory/2.TypesOfFunctions/5.Higher Order Functions _ GeeksforGeeks.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "4.Callbacks _ GeeksforGeeks"
+              "title": "5.Higher Order Functions _ GeeksforGeeks"
             }
           },
           {
@@ -194,8 +194,9 @@
   },
   "active": "193dca66b2a1ea97",
   "lastOpenFiles": [
-    "week1/Theory/2.TypesOfFunctions/4.Callbacks _ GeeksforGeeks.pdf",
+    "week1/Theory/2.TypesOfFunctions/5.Higher Order Functions _ GeeksforGeeks.pdf",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
+    "week1/Theory/2.TypesOfFunctions/4.Callbacks _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/2.Arrow functions in JavaScript _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/6.Difference between ‘function declaration’ and ‘function expression’ in JavaScript _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/3.Functions - JavaScript _ MDN.pdf",
@@ -211,7 +212,6 @@
     "Week6 - Week1/Comprehensive.md",
     "Week6/Tasks.md",
     "Week7/12.JavaScript Engine.pdf",
-    "Polyfills/Promise/myRace.js",
     "Week7/Tasks.md",
     "Week7/6. Javascript Event loop.md",
     "Week7/1. setTimeout.md",

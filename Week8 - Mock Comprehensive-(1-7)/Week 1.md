@@ -162,3 +162,40 @@ Features of Callbacks:
 3. Event-Driven/DOM Related Programming: Enable event-based execution (e.g., handling clicks, keypresses). 
 4. Error Handling: Pass errors to callbacks for better control in async operations. Non-Blocking 
 5. Execution: Keep the main thread free by running long tasks asynchronously.
+#### <font color="#4bacc6">F. Higher Order Functions</font>
+
+A higher-order function is a function that does one of the following: 
+- Takes another function as an argument. 
+```js
+function repeat(action, times) {
+    for (let i = 0; i < times; i++) {
+        action();
+    }
+}
+
+function sayHello() {
+    console.log("Hello, World!");
+}
+
+// repeat takes sayHello (a function) as an argument
+repeat(sayHello, 3); // Output: Hello, World! (3 times)
+
+```
+
+- Returns another function as its result. 
+
+```js
+function multiplier(factor) {
+    return function(x) {
+        return x * factor;
+    }
+}
+
+const double = multiplier(2);
+console.log(double(5)); // Output: 10
+
+```
+
+Higher-order functions help make your code more reusable and modular by allowing you to work with functions like any other value. They can used for memoization, currying etc. array methods like map, forEach etc. are higher order function
+
+
