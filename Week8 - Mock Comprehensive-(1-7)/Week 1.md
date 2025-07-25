@@ -242,3 +242,22 @@ JavaScript Scope is the area where a variable (or function) exists and is access
 
 <font color="#f79646">Global Scope:</font>
 Those variables which are declared outside the function or blocks or you can say curly braces({}) are having a global scope. In a JavaScript program, global variables can be accessed from anywhere
+
+```js
+var global_variable1 = "Geeksforgeeks";
+let global_variable2 = "Geeks";
+const global_variable3 = "GFG";
+
+function check_global_variables() {
+    console.log(global_variable1);
+    console.log(global_variable2);
+    console.log(global_variable3);
+}
+check_global_variables();
+
+//output
+Geeksforgeeks 
+Geeks 
+GFG
+```
+
