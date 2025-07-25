@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7132d150abc28579",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Week1/Theory/2.TypesOfFunctions/1.Immediately Invoked Function Expressions (IIFE) in JavaScript _ GeeksforGeeks.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1.Immediately Invoked Function Expressions (IIFE) in JavaScript _ GeeksforGeeks"
-            }
-          },
-          {
-            "id": "b273da74a2ae7b5a",
+            "id": "096eb68f161a027c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -190,15 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7132d150abc28579",
+  "active": "096eb68f161a027c",
   "lastOpenFiles": [
+    "Week1/Theory/2.TypesOfFunctions/2.Arrow functions in JavaScript _ GeeksforGeeks.pdf",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "Week1/Theory/2.TypesOfFunctions/1.Immediately Invoked Function Expressions (IIFE) in JavaScript _ GeeksforGeeks.pdf",
     "Week1/Theory/2.TypesOfFunctions/6.Difference between ‘function declaration’ and ‘function expression’ in JavaScript _ GeeksforGeeks.pdf",
     "Week1/Theory/2.TypesOfFunctions/5.Higher Order Functions _ GeeksforGeeks.pdf",
     "Week1/Theory/2.TypesOfFunctions/4.Callbacks _ GeeksforGeeks.pdf",
     "Week1/Theory/2.TypesOfFunctions/3.Functions - JavaScript _ MDN.pdf",
-    "Week1/Theory/2.TypesOfFunctions/2.Arrow functions in JavaScript _ GeeksforGeeks.pdf",
     "Week1/Theory/1.Var,Let,Const/4.Difference between var, let and const keywords in JavaScript.pdf",
     "Week1/Theory/1.Var,Let,Const/3.const - MDN.pdf",
     "Week1/Theory/1.Var,Let,Const/2.let - MDN.pdf",

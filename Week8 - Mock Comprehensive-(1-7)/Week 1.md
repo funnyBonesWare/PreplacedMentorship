@@ -63,4 +63,30 @@ try {
 })();
 ```
 
-- 
+- IIFEs are commonly used to create private scope in JavaScript, allowing variables and functions to be encapsulated and inaccessible from outside the function
+  
+```js
+var counter = (function() {
+    var count = 0;
+    return {
+        increment: function() {
+            count++;
+        },
+        decrement: function() {
+            count--;
+        },
+        getCount: function() {
+            return count;
+        }
+    };
+})(); // Increment the counter 
+counter.increment(); 
+counter.increment(); 
+counter.increment(); 
+console.log(counter.getCount()); // Output: 3 // Trying to access the private count variable directly 
+console.log(counter.count); // Output: undefined (cannot access private count)
+```
+
+<font color="#c0504d">Explanation</font>: Here, count is a private variable scoped to the IIFE, inaccessible from outside. The returned object exposes methods (increment, decrement, and getCount) that allow controlled manipulation and access to the private count variable.
+
+b. 
