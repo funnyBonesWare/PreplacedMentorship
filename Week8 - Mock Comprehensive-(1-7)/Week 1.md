@@ -238,8 +238,7 @@ The Temporal Dead Zone works in the following manner:
 3. <font color="#ffc000">Variable initialization:</font> When the value is assigned to the variable from that point of time they exits no longer in the TDZ. 
 4. <font color="#ffc000">Accessing the variable:</font>The variables can be accessed normally after the initialization without any errors.
 ### <font color="#00b050">8. Scope,Scope Chaining and lexical Environment</font>
+JavaScript Scope is the area where a variable (or function) exists and is accessible. We can layer the scope in a system which means the child scope can access the parent scope but not vice-versa.
 
-
-
-
-
+<font color="#f79646">Global Scope:</font>
+Those variables which are declared outside the function or blocks or you can say curly braces({}) are having a global scope. In a JavaScript program, global variables can be accessed from anywhere
