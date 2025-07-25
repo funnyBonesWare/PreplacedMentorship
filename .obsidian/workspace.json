@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "week1/Theory/2.TypesOfFunctions/5.Higher Order Functions _ GeeksforGeeks.pdf"
+                "file": "week1/Theory/3.Execution Context/JavaScript Code Execution _ GeeksforGeeks.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "5.Higher Order Functions _ GeeksforGeeks"
+              "title": "JavaScript Code Execution _ GeeksforGeeks"
             }
           },
           {
@@ -194,6 +194,7 @@
   },
   "active": "193dca66b2a1ea97",
   "lastOpenFiles": [
+    "week1/Theory/3.Execution Context/JavaScript Code Execution _ GeeksforGeeks.pdf",
     "week1/Theory/2.TypesOfFunctions/5.Higher Order Functions _ GeeksforGeeks.pdf",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "week1/Theory/2.TypesOfFunctions/4.Callbacks _ GeeksforGeeks.pdf",
