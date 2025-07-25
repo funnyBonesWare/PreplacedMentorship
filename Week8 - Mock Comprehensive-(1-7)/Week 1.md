@@ -119,5 +119,46 @@ const square = function(number) {
 console.log(square(4)); // 16
 ```
 The function in the function expression can be accessed only after the function definition.
-
 #### <font color="#4bacc6">D. Arrow Functions</font>
+
+- An arrow function is a shorter syntax for writing functions in JavaScript. 
+- Introduced in ES6, arrow functions allow for a more concise and readable code, especially in cases of small functions. 
+- Unlike regular functions, arrow functions don’t have their own this, but instead, inherit it from the surrounding context.
+- Arrow functions are written with the => symbol, which makes them compact.
+- They don’t have their own this. They inherit this from the surrounding context.
+- For functions with a single expression, the return is implicit, making the code more concise. 
+- Arrow functions do not have access to the arguments object, which is available in regular functions.
+```js
+const add = (a, b) => {
+    return a + b;
+};
+console.log(add(5, 3));
+```
+#### <font color="#4bacc6">E. Callbacks or CallBack Function</font>
+
+- A callback function is a function that is passed as an argument to another function and executed later. 
+- A function can accept another function as a parameter. 
+- Callbacks allow one function to call another at a later time. 
+- A callback function can execute after another function has finished.
+```js
+function greet(name, callback) {
+    console.log("Hello, " + name);
+    callback();
+}
+
+function sayBye() {
+    console.log("Goodbye!");
+}
+greet("Ajay", sayBye);
+
+//Output 
+//Hello, 
+//Ajay Goodbye!
+```
+
+Features of Callbacks:
+1. Asynchronous Execution: Handle async tasks like API calls, timers, and events without blocking execution. 
+2. Code Reusability: Write modular code by passing different callbacks for different behaviors. 
+3. Event-Driven/DOM Related Programming: Enable event-based execution (e.g., handling clicks, keypresses). 
+4. Error Handling: Pass errors to callbacks for better control in async operations. Non-Blocking 
+5. Execution: Keep the main thread free by running long tasks asynchronously.
