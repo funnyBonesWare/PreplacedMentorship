@@ -33,8 +33,7 @@
               "title": "Week 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
+                "file": "week1/Theory/7.Scope/1.Scope.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week 1"
+              "title": "Backlinks for 1.Scope"
             }
           },
           {
@@ -192,11 +191,11 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "193dca66b2a1ea97",
+  "active": "5a4e594ea9b512b5",
   "lastOpenFiles": [
+    "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "week1/Theory/7.Scope/1.Scope.pdf",
     "week1/Theory/5.Temporal Dead Zone/Temporal Dead Zone in JavaScript _ GeeksforGeeks.pdf",
-    "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "week1/Theory/7.Scope/3.Lexical Environment.pdf",
     "week1/Theory/6.Shadowing/Shadowing.pdf",
     "week1/Theory/7.Scope/2.Scope Chain.pdf",
