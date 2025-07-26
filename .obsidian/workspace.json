@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b7c6bcfa5ff8d983",
+        "id": "f98f989a3015bf94",
         "type": "tabs",
         "children": [
           {
-            "id": "ef7703afe93dec32",
+            "id": "d5a7b8aecc49a819",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Week3/Theory/4.__proto__vs Protoype/3.prototypeVSprotoVS[.]Prototype.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3.prototypeVSprotoVS[.]Prototype"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week3/Theory/4.__proto__vs Protoype/3.prototypeVSprotoVS[.]Prototype.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.prototypeVSprotoVS[.]Prototype"
+              "title": "Backlinks"
             }
           },
           {
@@ -177,19 +174,20 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "ef7703afe93dec32",
+  "active": "d5a7b8aecc49a819",
   "lastOpenFiles": [
+    "week1/Theory/7.Scope/3.Lexical Environment.pdf",
+    "Week6/Theory/2.Closure/1. Closure.md",
+    "Week5/Theory/1.Call,Apply,Blind/Call Apply & Bind.pdf",
+    "Week4/Theory/1.Constructor/1.FUnctionvsClassConstructor.pdf",
+    "Week3/Theory/4.__proto__vs Protoype/4.__proto__ vs prototype in JavaScript _ by Venkat Iyengar _ Medium.pdf",
+    "Week3/Theory/4.__proto__vs Protoype/3.prototypeVSprotoVS[.]Prototype.pdf",
     "Week3/Theory/4.__proto__vs Protoype/2.What is Proto.pdf",
     "Week3/Theory/4.__proto__vs Protoype/1.What is Proto.pdf",
     "Week3/Theory/3.ProtoypeChaning/2.Detailed Explanation of JavaScript Prototype Chain.pdf",
     "Week3/Theory/3.ProtoypeChaning/1.PrototypeChaning.pdf",
     "Week3/Theory/2.Prototype/2.Prototype.pdf",
     "Week3/Theory/2.Prototype/1.Prototype.pdf",
-    "Week2/Theory/7. ArrayMethods/10.concat.pdf",
-    "Week2/Theory/7. ArrayMethods/9.reduce.pdf",
-    "Week2/Theory/7. ArrayMethods/array_methods_comprehensive.pdf",
-    "Week2/Theory/7. ArrayMethods/5.Every.pdf",
-    "Week2/Theory/7. ArrayMethods/3.Map.pdf",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "Week6/Theory/8.Throttle/Throttle.md",
     "Week6/Tasks.md",
@@ -198,7 +196,6 @@
     "Week6/Theory/5.Factorial/Factorial.md",
     "Week6/Theory/4.Fibonacci/Fibonacci.md",
     "Week6/Theory/3.Currying/1. Currying.md",
-    "Week6/Theory/2.Closure/1. Closure.md",
     "Week6/Theory/1.Event and Event Function Constructor/4. Event Object Constructor Function.md",
     "Week6/Theory/1.Event and Event Function Constructor/3. Event Objects.md",
     "Week6/Theory/1.Event and Event Function Constructor/2. Setup Event Handlers.md",
