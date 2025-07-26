@@ -27,10 +27,10 @@
             "state": {
               "type": "vscode-editor",
               "state": {
-                "file": "Week5/Components/3.EventPropagation-Bubbling/script.js"
+                "file": "Polyfills/Array/10.flatMap.js"
               },
               "icon": "lucide-file",
-              "title": "script"
+              "title": "10.flatMap"
             }
           }
         ],
@@ -107,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Polyfills/Array/10.flatMap.js",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 10.flatMap"
             }
           },
           {
@@ -191,8 +192,18 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "dc23bfff22bf6a73",
+  "active": "61aeb1822cb6ddbe",
   "lastOpenFiles": [
+    "Polyfills/Array/09.flat.js",
+    "Polyfills/Array/08.concat.js",
+    "Polyfills/Array/07.filter.js",
+    "Polyfills/Array/06.find.js",
+    "Polyfills/Array/05.some.js",
+    "Polyfills/Array/04.every.js",
+    "Polyfills/Array/03.reduce.js",
+    "Polyfills/Array/02.forEach.js",
+    "Polyfills/Array/01.map.js",
+    "Week5/Components/3.EventPropagation-Bubbling/script.js",
     "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/6. Javascript Event loop.md",
     "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
@@ -201,15 +212,6 @@
     "Week6/Theory/1.Event and Event Function Constructor/2. Setup Event Handlers.md",
     "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
     "Week5/Theory/1.Call,Apply,Blind/Call Apply & Bind.pdf",
-    "Week4/Theory/4.This Keyword/3.title_ Namaste JavaScript.pdf",
-    "Week4/Theory/4.This Keyword/2.Understanding “this” Keyword. The this keyword in JavaScript is… _ by Omkar Bhavare _ Medium.pdf",
-    "Week4/Theory/4.This Keyword/1.The this keyword  _  web.dev.pdf",
-    "Week4/Theory/3.OOPS/2.Introduction to Object Oriented Programming in JavaScript _ GeeksforGeeks.pdf",
-    "Week4/Theory/3.OOPS/1.Object-Oriented Programming in JavaScript for Beginners.pdf",
-    "Week4/Theory/2.NEW Keyword/1.What is the purpose of the `new` keyword_ _ Quiz Interview Questions with Solutions.pdf",
-    "Week4/Theory/1.Constructor/2.Functionand constructor theory.pdf",
-    "Week4/Theory/1.Constructor/1.FUnctionvsClassConstructor.pdf",
-    "Week3/Theory/4.__proto__vs Protoype/4.__proto__ vs prototype in JavaScript _ by Venkat Iyengar _ Medium.pdf",
     "Polyfills/Copy/README.md",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "conflict-files-obsidian-git.md",
@@ -230,7 +232,6 @@
     "week1/Theory/Flex/FlexCheatSheet.png",
     "Week6/Theory/6.Memoization/Memoization.md",
     "Week6/Theory/8.Throttle/Throttle.md",
-    "Week6/Theory/7.Debounce/Debounce.md",
     "Assets/Throttle.png",
     "Assets/Debounce.png",
     "Assets/Memoization1.png",
