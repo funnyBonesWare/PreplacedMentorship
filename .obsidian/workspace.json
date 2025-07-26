@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Week2/Theory/4.CriticalRenderingPath/1.Critical Rendering Path_ What It Is and How to Optimize It.pdf"
+                "file": "Week2/Theory/4.CriticalRenderingPath/2.Understand the critical path  _  web.dev.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "1.Critical Rendering Path_ What It Is and How to Optimize It"
+              "title": "2.Understand the critical path  _  web.dev"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week2/Theory/4.CriticalRenderingPath/1.Critical Rendering Path_ What It Is and How to Optimize It.pdf",
+                "file": "Week2/Theory/4.CriticalRenderingPath/2.Understand the critical path  _  web.dev.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.Critical Rendering Path_ What It Is and How to Optimize It"
+              "title": "Backlinks for 2.Understand the critical path  _  web.dev"
             }
           },
           {
@@ -179,6 +179,7 @@
   },
   "active": "d306a0a818099db6",
   "lastOpenFiles": [
+    "Week2/Theory/4.CriticalRenderingPath/1.Critical Rendering Path_ What It Is and How to Optimize It.pdf",
     "Week2/Theory/3.CallByValuevsRefrence/Call by Value Vs Call by Reference in JavaScript _ GeeksforGeeks.pdf",
     "Week2/Theory/2.DeepShallowCopy/Shallow copy - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf",
     "Week2/Theory/2.DeepShallowCopy/deep_shallow_copy_js_final.pdf",
@@ -190,7 +191,6 @@
     "Polyfills/Copy/README.md",
     "Polyfills/Copy/deepCopy.js",
     "Polyfills/Copy",
-    "Polyfills/Call,apply,Bind/apply.js",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "conflict-files-obsidian-git.md",
     "README.md",
