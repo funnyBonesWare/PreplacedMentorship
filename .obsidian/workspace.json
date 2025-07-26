@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Week7/9.Promises in Js.pdf"
+                "file": "Week7/12.JavaScript Engine.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "9.Promises in Js"
+              "title": "12.JavaScript Engine"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week7/9.Promises in Js.pdf",
+                "file": "Week7/12.JavaScript Engine.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9.Promises in Js"
+              "title": "Backlinks for 12.JavaScript Engine"
             }
           },
           {
@@ -179,6 +179,9 @@
   },
   "active": "ef7703afe93dec32",
   "lastOpenFiles": [
+    "Week7/11.promisemethods.pdf",
+    "Week7/10.Async_Await.pdf",
+    "Week7/9.Promises in Js.pdf",
     "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf",
     "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/6. Javascript Event loop.md",
@@ -194,8 +197,6 @@
     "Polyfills/Copy/shallowCopy.js",
     "Polyfills/Copy/deepCopy.js",
     "Polyfills/Call,apply,Bind/bind.js",
-    "Polyfills/Call,apply,Bind/apply.js",
-    "Polyfills/Array/11.includes.js",
     "Week6/Theory/1.Event and Event Function Constructor/2. Setup Event Handlers.md",
     "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
     "Polyfills/Copy/README.md",
