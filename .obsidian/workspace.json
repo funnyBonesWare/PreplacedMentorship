@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3b824cd82f4e930c",
+        "id": "204c3f5052437697",
         "type": "tabs",
         "children": [
           {
-            "id": "5a4e594ea9b512b5",
+            "id": "d306a0a818099db6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "week1/Theory/7.Scope/1.Scope.pdf"
+                "file": "Week2/Theory/2.DeepShallowCopy/deep_shallow_copy_js_final.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "1.Scope"
-            }
-          },
-          {
-            "id": "193dca66b2a1ea97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 1"
+              "title": "deep_shallow_copy_js_final"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
+                "file": "Week2/Theory/2.DeepShallowCopy/deep_shallow_copy_js_final.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week 1"
+              "title": "Backlinks for deep_shallow_copy_js_final"
             }
           },
           {
@@ -192,19 +177,20 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "193dca66b2a1ea97",
+  "active": "dc23bfff22bf6a73",
   "lastOpenFiles": [
-    "week1/Theory/7.Scope/1.Scope.pdf",
+    "Polyfills/Copy/shallowCopy.js",
+    "Polyfills/Copy/README.md",
+    "Polyfills/Copy/deepCopy.js",
+    "Polyfills/Copy",
+    "Week2/Theory/2.DeepShallowCopy/Deep copy - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf",
+    "Polyfills/Call,apply,Bind/apply.js",
+    "Polyfills/Promise/myAny.js",
+    "Polyfills/Promise/myAllSettled.js",
+    "Polyfills/Promise/myAll.js",
+    "Polyfills/Call,apply,Bind/bind.js",
+    "Polyfills/Array/13.reverse.js",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
-    "week1/Theory/5.Temporal Dead Zone/Temporal Dead Zone in JavaScript _ GeeksforGeeks.pdf",
-    "week1/Theory/7.Scope/3.Lexical Environment.pdf",
-    "week1/Theory/6.Shadowing/Shadowing.pdf",
-    "week1/Theory/7.Scope/2.Scope Chain.pdf",
-    "week1/Theory/4.Hoisting/Hoisting - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf",
-    "week1/Theory/3.Execution Context/JavaScript Code Execution _ GeeksforGeeks.pdf",
-    "week1/Theory/2.TypesOfFunctions/5.Higher Order Functions _ GeeksforGeeks.pdf",
-    "week1/Theory/2.TypesOfFunctions/4.Callbacks _ GeeksforGeeks.pdf",
-    "week1/Theory/2.TypesOfFunctions/2.Arrow functions in JavaScript _ GeeksforGeeks.pdf",
     "conflict-files-obsidian-git.md",
     "README.md",
     "Untitled.md",
@@ -230,7 +216,6 @@
     "Week6/Theory/8.Throttle/Throttle.md",
     "Week6/Theory/7.Debounce/Debounce.md",
     "Week6/Theory/5.Factorial/Factorial.md",
-    "Week6/Theory/4.Fibonacci/Fibonacci.md",
     "Assets/Throttle.png",
     "Assets/Debounce.png",
     "Assets/Memoization1.png",
