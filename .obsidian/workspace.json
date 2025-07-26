@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Week2/Theory/2.DeepShallowCopy/deep_shallow_copy_js_final.pdf"
+                "file": "Week2/Theory/4.CriticalRenderingPath/1.Critical Rendering Path_ What It Is and How to Optimize It.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "deep_shallow_copy_js_final"
+              "title": "1.Critical Rendering Path_ What It Is and How to Optimize It"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week2/Theory/2.DeepShallowCopy/deep_shallow_copy_js_final.pdf",
+                "file": "Week2/Theory/4.CriticalRenderingPath/1.Critical Rendering Path_ What It Is and How to Optimize It.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for deep_shallow_copy_js_final"
+              "title": "Backlinks for 1.Critical Rendering Path_ What It Is and How to Optimize It"
             }
           },
           {
@@ -177,19 +177,20 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "dc23bfff22bf6a73",
+  "active": "d306a0a818099db6",
   "lastOpenFiles": [
+    "Week2/Theory/3.CallByValuevsRefrence/Call by Value Vs Call by Reference in JavaScript _ GeeksforGeeks.pdf",
+    "Week2/Theory/2.DeepShallowCopy/Shallow copy - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf",
+    "Week2/Theory/2.DeepShallowCopy/deep_shallow_copy_js_final.pdf",
+    "Week2/Theory/2.DeepShallowCopy/Deep copy - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf",
+    "Week2/Theory/1. Refrence,Type and Syntax Error/3. ErrorandExceptionHandling.pdf",
+    "Week2/Theory/1. Refrence,Type and Syntax Error/2.EasytermsDefinitionofTypesoferror.pdf",
+    "Week2/Theory/1. Refrence,Type and Syntax Error/1.TypesofError.pdf",
     "Polyfills/Copy/shallowCopy.js",
     "Polyfills/Copy/README.md",
     "Polyfills/Copy/deepCopy.js",
     "Polyfills/Copy",
-    "Week2/Theory/2.DeepShallowCopy/Deep copy - MDN Web Docs Glossary_ Definitions of Web-related terms _ MDN.pdf",
     "Polyfills/Call,apply,Bind/apply.js",
-    "Polyfills/Promise/myAny.js",
-    "Polyfills/Promise/myAllSettled.js",
-    "Polyfills/Promise/myAll.js",
-    "Polyfills/Call,apply,Bind/bind.js",
-    "Polyfills/Array/13.reverse.js",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "conflict-files-obsidian-git.md",
     "README.md",
