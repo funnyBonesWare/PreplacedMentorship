@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Week3/Theory/4.__proto__vs Protoype/3.prototypeVSprotoVS[.]Prototype.pdf"
+                "file": "Week4/Theory/3.OOPS/2.Introduction to Object Oriented Programming in JavaScript _ GeeksforGeeks.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "3.prototypeVSprotoVS[.]Prototype"
+              "title": "2.Introduction to Object Oriented Programming in JavaScript _ GeeksforGeeks"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week3/Theory/4.__proto__vs Protoype/3.prototypeVSprotoVS[.]Prototype.pdf",
+                "file": "Week4/Theory/3.OOPS/2.Introduction to Object Oriented Programming in JavaScript _ GeeksforGeeks.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.prototypeVSprotoVS[.]Prototype"
+              "title": "Backlinks for 2.Introduction to Object Oriented Programming in JavaScript _ GeeksforGeeks"
             }
           },
           {
@@ -179,17 +179,17 @@
   },
   "active": "2c6d254ddceb0bc3",
   "lastOpenFiles": [
+    "Week4/Theory/3.OOPS/1.Object-Oriented Programming in JavaScript for Beginners.pdf",
+    "Week4/Theory/2.NEW Keyword/1.What is the purpose of the `new` keyword_ _ Quiz Interview Questions with Solutions.pdf",
+    "Week4/Theory/1.Constructor/2.Functionand constructor theory.pdf",
+    "Week4/Theory/1.Constructor/1.FUnctionvsClassConstructor.pdf",
+    "Week3/Theory/4.__proto__vs Protoype/4.__proto__ vs prototype in JavaScript _ by Venkat Iyengar _ Medium.pdf",
+    "Week3/Theory/4.__proto__vs Protoype/3.prototypeVSprotoVS[.]Prototype.pdf",
     "Week3/Theory/4.__proto__vs Protoype/2.What is Proto.pdf",
     "Week3/Theory/4.__proto__vs Protoype/1.What is Proto.pdf",
     "Week3/Theory/3.ProtoypeChaning/3.Chain.pdf",
     "Week3/Theory/3.ProtoypeChaning/2.Detailed Explanation of JavaScript Prototype Chain.pdf",
     "Week3/Theory/3.ProtoypeChaning/1.PrototypeChaning.pdf",
-    "Week3/Theory/2.Prototype/2.Prototype.pdf",
-    "Week3/Theory/2.Prototype/1.Prototype.pdf",
-    "Week3/Theory/1.DomContentLoadedvsLoad/6.Difference between DOMContentLoaded and load Events _ GeeksforGeeks.pdf",
-    "Week3/Theory/1.DomContentLoadedvsLoad/5.Difference between document `load` event and document `DOMContentLoaded` event_ _ Quiz Interview Questions with Solutions.pdf",
-    "Week3/Theory/1.DomContentLoadedvsLoad/4.DomCOntentLoadedvsLoad.pdf",
-    "Week3/Theory/1.DomContentLoadedvsLoad/3.Load.pdf",
     "Polyfills/Copy/README.md",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "conflict-files-obsidian-git.md",
