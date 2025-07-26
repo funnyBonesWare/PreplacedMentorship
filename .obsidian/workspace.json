@@ -27,10 +27,10 @@
             "state": {
               "type": "vscode-editor",
               "state": {
-                "file": "Polyfills/Promise/myAll.js"
+                "file": "Polyfills/Promise/myAny.js"
               },
               "icon": "lucide-file",
-              "title": "myAll"
+              "title": "myAny"
             }
           }
         ],
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polyfills/Promise/myAll.js",
+                "file": "Polyfills/Promise/myAny.js",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for myAll"
+              "title": "Backlinks for myAny"
             }
           },
           {
@@ -194,6 +194,10 @@
   },
   "active": "61aeb1822cb6ddbe",
   "lastOpenFiles": [
+    "Polyfills/Promise/myRace.js",
+    "Polyfills/Promise/myAny.js",
+    "Polyfills/Promise/myAllSettled.js",
+    "Polyfills/Promise/myAll.js",
     "Polyfills/Copy/shallowCopy.js",
     "Polyfills/Copy/deepCopy.js",
     "Polyfills/Call,apply,Bind/bind.js",
@@ -201,10 +205,6 @@
     "Polyfills/Array/11.includes.js",
     "Polyfills/Array/12.at.js",
     "Polyfills/Array/10.flatMap.js",
-    "Polyfills/Array/09.flat.js",
-    "Polyfills/Array/08.concat.js",
-    "Polyfills/Array/07.filter.js",
-    "Polyfills/Array/06.find.js",
     "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/6. Javascript Event loop.md",
     "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
