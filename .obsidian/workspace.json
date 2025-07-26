@@ -11,14 +11,12 @@
             "id": "ef7703afe93dec32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Week6/Theory/8.Throttle/Throttle.md",
-                "mode": "preview",
-                "source": false
+                "file": "Week4/Theory/1.Constructor/1.FUnctionvsClassConstructor.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Throttle"
+              "icon": "lucide-file-text",
+              "title": "1.FUnctionvsClassConstructor"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week6/Theory/8.Throttle/Throttle.md",
+                "file": "Week4/Theory/1.Constructor/1.FUnctionvsClassConstructor.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Throttle"
+              "title": "Backlinks for 1.FUnctionvsClassConstructor"
             }
           },
           {
@@ -181,6 +179,8 @@
   },
   "active": "ef7703afe93dec32",
   "lastOpenFiles": [
+    "Week5/Theory/1.Call,Apply,Blind/Call Apply & Bind.pdf",
+    "Week6/Theory/8.Throttle/Throttle.md",
     "Week6/Tasks.md",
     "Week6/Theory/7.Debounce/Debounce.md",
     "Week6/Theory/6.Memoization/Memoization.md",
@@ -215,8 +215,6 @@
     "README.md",
     "Untitled.md",
     "Week2/Tasks.md",
-    "week1/Tasks.md",
-    "Week6 - Week1/Comprehensive.md",
     "week1/Theory/Flex/FlexCheatSheet2.png",
     "week1/Theory/Flex/FlexCheatSheet.png",
     "Assets/Throttle.png",
