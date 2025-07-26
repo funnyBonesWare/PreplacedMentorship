@@ -11,12 +11,14 @@
             "id": "ef7703afe93dec32",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Week7/12.JavaScript Engine.pdf"
+                "file": "Week6/Theory/2.Closure/1. Closure.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "12.JavaScript Engine"
+              "icon": "lucide-file",
+              "title": "1. Closure"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week7/12.JavaScript Engine.pdf",
+                "file": "Week6/Theory/2.Closure/1. Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 12.JavaScript Engine"
+              "title": "Backlinks for 1. Closure"
             }
           },
           {
@@ -179,6 +181,11 @@
   },
   "active": "ef7703afe93dec32",
   "lastOpenFiles": [
+    "Week6/Theory/1.Event and Event Function Constructor/4. Event Object Constructor Function.md",
+    "Week6/Theory/1.Event and Event Function Constructor/3. Event Objects.md",
+    "Week6/Theory/1.Event and Event Function Constructor/2. Setup Event Handlers.md",
+    "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
+    "Week7/12.JavaScript Engine.pdf",
     "Week7/11.promisemethods.pdf",
     "Week7/10.Async_Await.pdf",
     "Week7/9.Promises in Js.pdf",
@@ -195,10 +202,6 @@
     "Polyfills/Promise/myAllSettled.js",
     "Polyfills/Promise/myAll.js",
     "Polyfills/Copy/shallowCopy.js",
-    "Polyfills/Copy/deepCopy.js",
-    "Polyfills/Call,apply,Bind/bind.js",
-    "Week6/Theory/1.Event and Event Function Constructor/2. Setup Event Handlers.md",
-    "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
     "Polyfills/Copy/README.md",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "conflict-files-obsidian-git.md",
@@ -216,7 +219,6 @@
     "week1/Theory/Flex/FlexCheatSheet2.png",
     "week1/Theory/Flex/FlexCheatSheet.png",
     "Week6/Theory/6.Memoization/Memoization.md",
-    "Week6/Theory/8.Throttle/Throttle.md",
     "Assets/Throttle.png",
     "Assets/Debounce.png",
     "Assets/Memoization1.png",
