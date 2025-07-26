@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "204c3f5052437697",
+        "id": "b7c6bcfa5ff8d983",
         "type": "tabs",
         "children": [
           {
-            "id": "2c6d254ddceb0bc3",
+            "id": "ef7703afe93dec32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
-                "mode": "preview",
-                "source": false
+                "file": "Week7/9.Promises in Js.pdf"
               },
-              "icon": "lucide-file",
-              "title": "7. Pyramid of Doom A.K.A CallBack Hell"
-            }
-          },
-          {
-            "id": "61aeb1822cb6ddbe",
-            "type": "leaf",
-            "state": {
-              "type": "vscode-editor",
-              "state": {
-                "file": "Polyfills/Promise/myAny.js"
-              },
-              "icon": "lucide-file",
-              "title": "myAny"
+              "icon": "lucide-file-text",
+              "title": "9.Promises in Js"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polyfills/Promise/myAny.js",
+                "file": "Week7/9.Promises in Js.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for myAny"
+              "title": "Backlinks for 9.Promises in Js"
             }
           },
           {
@@ -192,10 +177,18 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "61aeb1822cb6ddbe",
+  "active": "ef7703afe93dec32",
   "lastOpenFiles": [
-    "Polyfills/Promise/myRace.js",
+    "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf",
+    "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
+    "Week7/6. Javascript Event loop.md",
+    "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
+    "Week7/4. clearInterval.md",
+    "Week7/1. setTimeout.md",
+    "Week7/3.setInterval.md",
+    "Week7/2. clearTimeout.md",
     "Polyfills/Promise/myAny.js",
+    "Polyfills/Promise/myRace.js",
     "Polyfills/Promise/myAllSettled.js",
     "Polyfills/Promise/myAll.js",
     "Polyfills/Copy/shallowCopy.js",
@@ -203,13 +196,6 @@
     "Polyfills/Call,apply,Bind/bind.js",
     "Polyfills/Call,apply,Bind/apply.js",
     "Polyfills/Array/11.includes.js",
-    "Polyfills/Array/12.at.js",
-    "Polyfills/Array/10.flatMap.js",
-    "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
-    "Week7/6. Javascript Event loop.md",
-    "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
-    "Week7/3.setInterval.md",
-    "Week7/1. setTimeout.md",
     "Week6/Theory/1.Event and Event Function Constructor/2. Setup Event Handlers.md",
     "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
     "Polyfills/Copy/README.md",
@@ -222,8 +208,6 @@
     "Week6 - Week1/Comprehensive.md",
     "Week6/Tasks.md",
     "Week7/Tasks.md",
-    "Week7/4. clearInterval.md",
-    "Week7/2. clearTimeout.md",
     "Polyfills/Promise/README.md",
     "Week7/A.md",
     "Polyfills/setTimeout.md",
