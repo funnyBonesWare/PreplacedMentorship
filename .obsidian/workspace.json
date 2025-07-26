@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Week4/Theory/1.Constructor/1.FUnctionvsClassConstructor.pdf"
+                "file": "Week3/Theory/4.__proto__vs Protoype/3.prototypeVSprotoVS[.]Prototype.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "1.FUnctionvsClassConstructor"
+              "title": "3.prototypeVSprotoVS[.]Prototype"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week4/Theory/1.Constructor/1.FUnctionvsClassConstructor.pdf",
+                "file": "Week3/Theory/4.__proto__vs Protoype/3.prototypeVSprotoVS[.]Prototype.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.FUnctionvsClassConstructor"
+              "title": "Backlinks for 3.prototypeVSprotoVS[.]Prototype"
             }
           },
           {
@@ -179,7 +179,18 @@
   },
   "active": "ef7703afe93dec32",
   "lastOpenFiles": [
-    "Week5/Theory/1.Call,Apply,Blind/Call Apply & Bind.pdf",
+    "Week3/Theory/4.__proto__vs Protoype/2.What is Proto.pdf",
+    "Week3/Theory/4.__proto__vs Protoype/1.What is Proto.pdf",
+    "Week3/Theory/3.ProtoypeChaning/2.Detailed Explanation of JavaScript Prototype Chain.pdf",
+    "Week3/Theory/3.ProtoypeChaning/1.PrototypeChaning.pdf",
+    "Week3/Theory/2.Prototype/2.Prototype.pdf",
+    "Week3/Theory/2.Prototype/1.Prototype.pdf",
+    "Week2/Theory/7. ArrayMethods/10.concat.pdf",
+    "Week2/Theory/7. ArrayMethods/9.reduce.pdf",
+    "Week2/Theory/7. ArrayMethods/array_methods_comprehensive.pdf",
+    "Week2/Theory/7. ArrayMethods/5.Every.pdf",
+    "Week2/Theory/7. ArrayMethods/3.Map.pdf",
+    "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "Week6/Theory/8.Throttle/Throttle.md",
     "Week6/Tasks.md",
     "Week6/Theory/7.Debounce/Debounce.md",
@@ -192,11 +203,6 @@
     "Week6/Theory/1.Event and Event Function Constructor/3. Event Objects.md",
     "Week6/Theory/1.Event and Event Function Constructor/2. Setup Event Handlers.md",
     "Week6/Theory/1.Event and Event Function Constructor/1.Event.md",
-    "Week7/12.JavaScript Engine.pdf",
-    "Week7/11.promisemethods.pdf",
-    "Week7/10.Async_Await.pdf",
-    "Week7/9.Promises in Js.pdf",
-    "Week7/8.Asynchronous Callbacks, Pyramid of Doom, and Inversion of Control.pdf",
     "Week7/7. Pyramid of Doom A.K.A CallBack Hell.md",
     "Week7/6. Javascript Event loop.md",
     "Week7/5. Async Callback - Start Of Asynchronous Javascript.md",
@@ -204,13 +210,7 @@
     "Week7/1. setTimeout.md",
     "Week7/3.setInterval.md",
     "Week7/2. clearTimeout.md",
-    "Polyfills/Promise/myAny.js",
-    "Polyfills/Promise/myRace.js",
-    "Polyfills/Promise/myAllSettled.js",
-    "Polyfills/Promise/myAll.js",
-    "Polyfills/Copy/shallowCopy.js",
     "Polyfills/Copy/README.md",
-    "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "Untitled.md",
