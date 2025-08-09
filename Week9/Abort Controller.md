@@ -17,11 +17,22 @@ A JavaScript value providing the abort reason, once the signal has aborted. it i
 ### <font color="#00b050">AbortSignal Methods</font>
 Also inherits methods from their parent "Event target"
 
+#### <font color="#f79646">AbortSignal.abort()</font>
+Returns an `AbortSignal` instance that is already set as aborted.
+
+#### <font color="#f79646">AbortSignal.any()</font>
+Returns an `AbortSignal` that aborts when any of the given abort signals abort.
+
+#### <font color="#f79646">AbortSignal.timeout()</font>
+Returns an `AbortSignal` instance that will automatically abort after a specified time.
+
+#### <font color="#f79646">AbortSignal.throwIfAborted()</font>
+Throws the signal's abort reason if the signal has been aborted; otherwise it does nothing.
 
 
 ## AbortController()
 
-An Abort Controller is created by instantiating the `AbortController class` as shown below:
+An Abort Controller is created by instantiating the `AbortController class` as shown below, which gives you an AbortSignal object:
 
 ```js
 const controller = new AbortController();
