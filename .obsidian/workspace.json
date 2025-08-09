@@ -154,12 +154,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +174,7 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "d5a7b8aecc49a819",
+  "active": "31754b51f2c55ff3",
   "lastOpenFiles": [
     "week1/Theory/7.Scope/3.Lexical Environment.pdf",
     "Week6/Theory/2.Closure/1. Closure.md",
