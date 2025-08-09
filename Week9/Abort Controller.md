@@ -8,8 +8,17 @@ Communicating with an asynchronous operation is done using an AbortSignal objec
 
 The **`AbortSignal`** interface represents a signal object that allows you to communicate with an asynchronous operation (such as a fetch request) and abort it if required via an AbortController object.
 
-### AbortSignal.aborted
- A Boolean  that indicates whether the request(s) the signal is communicating with is/are aborted (`true`) or not (`false`).
+### <font color="#00b050">AbortSignal Properties</font>
+#### <font color="#f79646">AbortSignal.aborted</font>
+ A Boolean  that indicates whether the request(s) the signal is communicating with is/are aborted (`true`) or not (`false`). it is read only.
+#### <font color="#f79646">AbortSignal.reason</font>
+A JavaScript value providing the abort reason, once the signal has aborted. it is read only.
+ 
+### <font color="#00b050">AbortSignal Methods</font>
+Also inherits methods from their parent "Event target"
+
+
+
 ## AbortController()
 
 An Abort Controller is created by instantiating the `AbortController class` as shown below:
