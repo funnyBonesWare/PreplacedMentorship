@@ -3,6 +3,6 @@ Abort Controller ✅
 
 Resize Observer ✅
 
-Mutation Observer
+Mutation Observer ✅
 
-Intersection Observer
+Intersection Observer ✅
