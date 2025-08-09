@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f98f989a3015bf94",
+        "id": "96ed801864d01941",
         "type": "tabs",
         "children": [
           {
-            "id": "d5a7b8aecc49a819",
+            "id": "417020020ad599b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -174,8 +178,10 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "31754b51f2c55ff3",
+  "active": "417020020ad599b4",
   "lastOpenFiles": [
+    "CSS_DOM_CheatSheet.md",
+    "conflict-files-obsidian-git.md",
     "week1/Theory/7.Scope/3.Lexical Environment.pdf",
     "Week6/Theory/2.Closure/1. Closure.md",
     "Week5/Theory/1.Call,Apply,Blind/Call Apply & Bind.pdf",
@@ -187,7 +193,6 @@
     "Week3/Theory/3.ProtoypeChaning/2.Detailed Explanation of JavaScript Prototype Chain.pdf",
     "Week3/Theory/3.ProtoypeChaning/1.PrototypeChaning.pdf",
     "Week3/Theory/2.Prototype/2.Prototype.pdf",
-    "Week3/Theory/2.Prototype/1.Prototype.pdf",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "Week6/Theory/8.Throttle/Throttle.md",
     "Week6/Tasks.md",
@@ -208,7 +213,6 @@
     "Week7/3.setInterval.md",
     "Week7/2. clearTimeout.md",
     "Polyfills/Copy/README.md",
-    "conflict-files-obsidian-git.md",
     "README.md",
     "Untitled.md",
     "Week2/Tasks.md",
