@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "96ed801864d01941",
+        "id": "869f871c4c6a16fe",
         "type": "tabs",
         "children": [
           {
-            "id": "417020020ad599b4",
+            "id": "e200256da2670cd5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Week9/Abort Controller.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Abort Controller"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Week9/Abort Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Abort Controller"
             }
           },
           {
@@ -163,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +180,13 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "417020020ad599b4",
+  "active": "e200256da2670cd5",
   "lastOpenFiles": [
+    "Week9/Tasks.md",
+    "Week9/Abort Controller.md",
+    "Untitled.md",
+    "Week9",
+    "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "CSS_DOM_CheatSheet.md",
     "conflict-files-obsidian-git.md",
     "week1/Theory/7.Scope/3.Lexical Environment.pdf",
@@ -192,8 +199,6 @@
     "Week3/Theory/4.__proto__vs Protoype/1.What is Proto.pdf",
     "Week3/Theory/3.ProtoypeChaning/2.Detailed Explanation of JavaScript Prototype Chain.pdf",
     "Week3/Theory/3.ProtoypeChaning/1.PrototypeChaning.pdf",
-    "Week3/Theory/2.Prototype/2.Prototype.pdf",
-    "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "Week6/Theory/8.Throttle/Throttle.md",
     "Week6/Tasks.md",
     "Week6/Theory/7.Debounce/Debounce.md",
@@ -213,9 +218,6 @@
     "Week7/3.setInterval.md",
     "Week7/2. clearTimeout.md",
     "Polyfills/Copy/README.md",
-    "README.md",
-    "Untitled.md",
-    "Week2/Tasks.md",
     "week1/Theory/Flex/FlexCheatSheet2.png",
     "week1/Theory/Flex/FlexCheatSheet.png",
     "Assets/Throttle.png",
