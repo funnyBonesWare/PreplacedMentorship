@@ -65,3 +65,6 @@ To cancel the `fetch` request, you can call the `abort()` method on the cont
 ```js
 controller.abort();
 ```
+
+### <font color="#00b050"> Usage</font>
+
