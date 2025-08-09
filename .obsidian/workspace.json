@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week9/Abort Controller.md",
-                "mode": "preview",
+                "file": "Week9/Tasks.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abort Controller"
+              "title": "Tasks"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week9/Abort Controller.md",
+                "file": "Week9/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Abort Controller"
+              "title": "Backlinks for Tasks"
             }
           },
           {

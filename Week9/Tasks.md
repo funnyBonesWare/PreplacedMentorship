@@ -1,7 +1,7 @@
 
-Abort Controller
+Abort Controller ✅
 
-Resize Observer
+Resize Observer 
 
 Mutation Observer
 
