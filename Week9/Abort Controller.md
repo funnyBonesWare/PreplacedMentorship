@@ -68,3 +68,80 @@ controller.abort();
 
 ### <font color="#00b050"> Usage</font>
 
+#### <font color="#f79646">1. Event listeners</font>
+
+You can provide an abort `signal` when adding an event listener for it to be automatically removed once the abort happens.
+```js
+const controller = new AbortController()
+
+window.addEventListener('resize', ()=>{}, { signal: controller.signal })
+
+controller.abort()
+```
+
+Calling `controller.abort()` removes the `resize` listener from the window. That is an extremely elegant way of handling event listeners because you no longer need to abstract the listener function just so you can provide it to `.removeEventListener()`.
+
+```js
+//old Way
+// const listener = () => {}
+
+// window.addEventListener('resize', listener)
+
+// window.removeEventListener('resize', listener)
+
+//New Way
+
+const controller = new AbortController()
+
+window.addEventListener('resize', () => {}, { signal: controller.signal })
+
+controller.abort()
+```
+
+An `AbortController` instance is also much nicer to pass around if a different part of your application is responsible for removing the listener.
+
+<font color="#f79646">CATCH / AHA Moment</font>
+
+A great "aha" moment for me was when I realized you can use _a single `signal`_ to remove _multiple_ event listeners!
+```js
+useEffect(() => {
+
+  const controller = new AbortController()
+
+  window.addEventListener('resize', handleResize, {
+
+    signal: controller.signal,
+
+  })
+
+  window.addEventListener('hashchange', handleHashChange, {
+
+    signal: controller.signal,
+
+  })
+
+  window.addEventListener('storage', handleStorageChange, {
+
+    signal: controller.signal,
+
+  })
+
+  return () => {
+
+    // Calling `.abort()` removes ALL event listeners
+
+    // associated with `controller.signal`. Gone!
+
+    controller.abort()
+
+  }
+
+}, [])
+```
+
+In the example above, I'm adding a `useEffect()` hook in React that introduces a bunch of event listeners with different purpose and logic. Notice how in the clean up function I can remove _all of the added listeners_ by calling `controller.abort()` _once_. Neat!
+
+#### <font color="#f79646">2.  Fetch requests</font>
+
+
+
