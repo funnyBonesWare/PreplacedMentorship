@@ -214,3 +214,25 @@ const { response, controller } = await uploadFile(myFile);
 controller.abort();
 ```
 
+### Abort error handling
+
+Every abort event is accompanied with the reason for that abort. That yields even more customizability as you can react to different abort reasons differently.
+
+The abort reason is an optional argument to the `controller.abort()` method. You can access the abort reason in the `reason` property of any `AbortSignal` instance. if no argument is passed then a default "Abort Error" is sent as error.
+
+If we use try catch the error will get catched in the catch block.
+
+```js
+const controller = new AbortController()
+
+controller.signal.addEventListener('abort', () => {
+
+  console.log(controller.signal.reason) // "user cancellation"
+
+})
+
+// Provide a custom reason to this abort.
+
+controller.abort('user cancellation')
+```
+
