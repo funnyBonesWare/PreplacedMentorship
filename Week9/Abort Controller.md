@@ -143,5 +143,39 @@ In the example above, I'm adding a `useEffect()` hook in React that introduces
 
 #### <font color="#f79646">2.  Fetch requests</font>
 
+The `fetch()` function supports `AbortSignal` as well! Once the `abort` event on the signal is emitted, the request promise returned from the `fetch()` function will reject, aborting the pending request.
 
+```js
+async function  uploadFile(file: File) {
+
+    const controller = new AbortController()
+
+    // Provide the abort signal to this fetch request
+
+    // so it can be aborted anytime be calling `controller.abort()`.
+
+    const response = await fetch('/upload', {
+
+        method: 'POST',
+
+        body: file,
+
+        signal: controller.signal,
+
+    })
+
+    return {
+        response,
+        controller
+    }
+}
+```
+
+
+```js
+const { response, controller } = await uploadFile(myFile);
+
+// Abort if needed
+controller.abort();
+```
 
