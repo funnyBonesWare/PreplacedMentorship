@@ -21,11 +21,32 @@ Also inherits methods from their parent "Event target"
 Returns an `AbortSignal` instance that is already set as aborted.
 
 #### <font color="#f79646">AbortSignal.any()</font>
-Returns an `AbortSignal` that aborts when any of the given abort signals abort.
+Returns an `AbortSignal` that aborts when any of the given abort signals abort.Similar to how you can use `Promise.race()` to handle multiple promises on a first-come-first-served basis, you can utilize the `AbortSignal.any()` static method to group multiple abort signals into one.
+
 
 #### <font color="#f79646">AbortSignal.timeout()</font>
-Returns an `AbortSignal` instance that will automatically abort after a specified time.
+Returns an `AbortSignal` instance that will automatically abort after a specified time.You can use the `AbortSignal.timeout()` static method as a shorthand to create a signal that dispatches the abort event after a certain timeout duration has passed. No need to create an `AbortController` if all you want is to cancel a request after it exceeds a timeout:
 
+```js
+async function uploadFile(file: File) {
+    const response = await fetch('/upload', {
+        method: 'POST',
+        body: file,
+        signal: AbortSignal.timeout(3000) // timeout signal
+    });
+    return response;
+}
+```
+
+- **Start request** — `fetch()` begins sending the file.
+    
+- **Timer begins** — `AbortSignal.timeout(3000)` starts a 3-second countdown.
+    
+- **Two possible outcomes:**
+    
+    - If the upload finishes **before** 3 seconds → `fetch` resolves normally with a `Response` object.
+        
+    - If the upload takes **longer** than 3 seconds → the signal is aborted, and `fetch` rejects with an `AbortError` (or `TimeoutError` in some browsers).
 #### <font color="#f79646">AbortSignal.throwIfAborted()</font>
 Throws the signal's abort reason if the signal has been aborted; otherwise it does nothing.
 
