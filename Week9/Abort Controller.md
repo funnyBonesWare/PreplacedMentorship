@@ -21,9 +21,23 @@ Also inherits methods from their parent "Event target"
 Returns an `AbortSignal` instance that is already set as aborted.
 
 #### <font color="#f79646">AbortSignal.any()</font>
-Returns an `AbortSignal` that aborts when any of the given abort signals abort.Similar to how you can use `Promise.race()` to handle multiple promises on a first-come-first-served basis, you can utilize the `AbortSignal.any()` static method to group multiple abort signals into one.
+Returns an `AbortSignal` that aborts when any of the given abort signals abort. Similar to how you can use `Promise.race()` to handle multiple promises on a first-come-first-served basis, you can utilize the `AbortSignal.any()` static method to group multiple abort signals into one.
 
+```js
+const publicController = new AbortController()
 
+const internalController = new AbortController()
+
+channel.addEventListener('message', handleMessage, {
+
+  signal: AbortSignal.any([publicController.signal, internalController.signal]),
+
+})
+```
+
+In the example above, I am introducing _two_ abort controllers. The public one is exposed to the consumer of my code, allowing them to trigger aborts, resulting in the `message` event listener being removed. The internal one, however, allows _me_ to also remove that listener without interfering with the public abort controller.
+
+If any of the abort signals provided to the `AbortSignal.any()` dispatch the abort event, that parent signal will also dispatch the abort event. Any other abort events past that point are ignored.
 #### <font color="#f79646">AbortSignal.timeout()</font>
 Returns an `AbortSignal` instance that will automatically abort after a specified time.You can use the `AbortSignal.timeout()` static method as a shorthand to create a signal that dispatches the abort event after a certain timeout duration has passed. No need to create an `AbortController` if all you want is to cancel a request after it exceeds a timeout:
 
