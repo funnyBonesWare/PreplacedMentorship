@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="box">Hello</div>
+    <button id="add">Add Child</button>
+    <button id="change">Change Text</button>
+</body>
+</html>
+
+<script>
+const box = document.getElementById("box");
+
+const observer = new MutationObserver((mutations) => {
+  console.clear();
+  console.log("Mutations detected:", mutations);
+});
+
+observer.observe(box, {
+  childList: true,
+  attributes: true,
+  characterData: true,
+  subtree: true
+});
+
+document.getElementById("add").onclick = () => {
+  const newEl = document.createElement("p");
+  newEl.textContent = "New child " + Date.now();
+  box.appendChild(newEl);
+};
+
+document.getElementById("change").onclick = () => {
+  box.firstChild.textContent = "Changed text " + Date.now();
+};
+</script>
