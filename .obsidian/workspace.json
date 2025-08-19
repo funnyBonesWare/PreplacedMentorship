@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7408f8c8cacb18e8",
+        "id": "77e9c7c146a71880",
         "type": "tabs",
         "children": [
           {
-            "id": "208b62887b905585",
+            "id": "0e3534546054fbf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week9/Abort Controller.md",
-                "mode": "source",
+                "file": "Week10/Tasks.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abort Controller"
+              "title": "Tasks"
             }
           }
         ]
@@ -180,8 +180,11 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "208b62887b905585",
+  "active": "0e3534546054fbf3",
   "lastOpenFiles": [
+    "Week10/Tasks.md",
+    "Week10",
+    "Week9/Abort Controller.md",
     "Week9/Tasks.md",
     "Week9/intersectionObserver.html",
     "Week9/mutationobserver.html",
@@ -192,8 +195,6 @@
     "Week9/exResizeObserver copy/styles.css",
     "Week9/exResizeObserver copy/script.js",
     "Week9/exResizeObserver copy/index.html",
-    "Week9/exResizeObserver copy",
-    "Week9/Abort Controller.md",
     "Untitled.md",
     "Week8 - Mock Comprehensive-(1-7)/Week 1.md",
     "CSS_DOM_CheatSheet.md",
